@@ -11,7 +11,7 @@
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> Me encargare del diseño 3D de nuestro prototipo mediante el uso de diferentes programas como Autodesk Inventor o Ultimaker Cura. </p>
 
-<h3> Gustavo Alonso Maldonado Uriarte </h3>
+<h3> Gustavo Alonso Maldonado Uriarte (Prototipado Electrónico) </h3>
 
 > <h4> Presentación </h4>
 > <p align="justify"> Alumno de Ing. Biomédica de cuarto ciclo, con interés en la ingeniería de tejidos y la creación de equipos médicos enfocados en el proceso de rehabilitación. Elegí esta carrera pues es muy requerida actualmente en nuestro país debido a la gran falta de aparatos médicos. </p>
