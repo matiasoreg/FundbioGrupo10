@@ -18,7 +18,7 @@
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> Como coordinador del prototipado electrónico, me encargaré del ensamblaje, pruebas y validación del sistema electrónico, asegurando su funcionamiento. </p>
 
-<h3> Leonardo Gabriel Samillán García </h3>
+<h3> Leonardo Gabriel Samillán García (Coordinador general) </h3>
 
 > <h4> Presentación </h4>
 > <p align="justify"> Mi nombre es Leonardo, estoy estudiando ingeniería biomédica y actualmente estoy en el 4to ciclo de la carrera. Espero llevarme una experiencia enriquecedora con este proyecto. </h4>
