@@ -25,12 +25,12 @@
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> Como cordinador general, mi rol consiste en dirigir, ayudar y supervisar que cada área, tarea y proceso se cumpla de manera satisfactoria en orden de llevar a cabo el proyecto de manera eficiente. Como tal, debo estar preparado para resolver problemas, asegurar la comunicación y optimizar recursos. </p>
 
-<h3> Nombre 4</h3>
+<h3> Matias Ore Gomez </h3>
 
 > <h4> Presentación </h4>
-> <p align="justify"> Descripción 4 </h4>
+> <p align="justify"> Soy Sergio Condor y estoy estudiando ing biomedica y voy en 3er ciclo de la carrera , me matricule al curso para adelantar,en mi tiempo libre me gusta conocer/investigar nueva tecnologica, me gusta el anime y los videojuegos.</h4>
 > <h4> Rol en el equipo</h4>
-> <p align="justify"> Rol 4 </p>
+> <p align="justify"> Como manufacturador digital, debo ayudar a diseñar, simular y optimizar productos y procesos utilizando herramientas digitales. Apoyaré en la creación de modelos 3D y fabricación aditiva (impresión 3D). </p>
 
 <h3> Nombre 5</h3>
 
