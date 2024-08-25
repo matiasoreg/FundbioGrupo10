@@ -25,7 +25,7 @@
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> Como cordinador general, mi rol consiste en dirigir, ayudar y supervisar que cada área, tarea y proceso se cumpla de manera satisfactoria en orden de llevar a cabo el proyecto de manera eficiente. Como tal, debo estar preparado para resolver problemas, asegurar la comunicación y optimizar recursos. </p>
 
-<h3> Matias Ore Gomez </h3>
+<h3> Matias Ore Gomez (Manufactura digital) </h3>
 
 > <h4> Presentación </h4>
 > <p align="justify"> Soy Sergio Condor y estoy estudiando ing biomedica y voy en 3er ciclo de la carrera , me matricule al curso para adelantar,en mi tiempo libre me gusta conocer/investigar nueva tecnologica, me gusta el anime y los videojuegos.</h4>
