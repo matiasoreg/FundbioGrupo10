@@ -32,12 +32,12 @@
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> Como manufacturador digital, debo ayudar a diseñar, simular y optimizar productos y procesos utilizando herramientas digitales. Apoyaré en la creación de modelos 3D y fabricación aditiva (impresión 3D). </p>
 
-<h3> Nombre 5</h3>
+<h3> Claudia Andrea Huanca Zegarra</h3>
 
 > <h4> Presentación </h4>
-> <p align="justify"> Despcrión 5 </p>
+> <p align="justify"> Soy estudiante de 4to ciclo de Ingeniería Biomédica. Tengo interés en el área de Señales e Imágenes.  </p>
 > <h4> Rol en el equipo</h4>
-> <p align="justify"> Rol 5 </p>
+> <p align="justify"> Me encargo del diseño electrónico del prototipo con Proteus y codificación del proyecto en la interfaz de Arduino. </p>
 
 <h2> PROBLEMATICA </h2>
 
