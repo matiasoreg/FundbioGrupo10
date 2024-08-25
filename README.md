@@ -3,13 +3,13 @@
 
 <h2> INTEGRANTES </h2>
 
-<h3> Nombre 1 </h3>
+<h3> Alonso Vásquez Tantaleán </h3>
 
 > <h4> Presentación </h4>
 >
-> <p align="justify"> Descripción 1 </p>
+> <p align="justify"> Tengo 18 años y voy en cuarto ciclo de Ingeniería Biomédica. Elegí esta carrera por el amplio campo laboral que existe y porque combina las herramientas tecnologicas con la posibilidad de aportar a la salud de las personas. </p>
 > <h4> Rol en el equipo</h4>
-> <p align="justify"> ROl 1 </p>
+> <p align="justify"> Me encargare del diseño 3D de nuestro prototipo mediante el uso de diferentes programas como Autodesk Inventor o Ultimaker Cura. </p>
 
 <h3> Nombre 2 </h3>
 
