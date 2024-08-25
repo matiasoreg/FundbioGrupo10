@@ -14,7 +14,7 @@
 <h3> Gustavo Alonso Maldonado Uriarte </h3>
 
 > <h4> Presentación </h4>
-> <p align="justify"> Alumno de Ing. Biomédica de cuarto ciclo, con interés en la ingeniería de tejidos y la creación de equipos médicos enfocados en el proceso de rehabilitación. Elegí esta carrera, pues es muy requerida actualmente en nuestro país debido a la gran falta de aparatos médicos. </p>
+> <p align="justify"> Alumno de Ing. Biomédica de cuarto ciclo, con interés en la ingeniería de tejidos y la creación de equipos médicos enfocados en el proceso de rehabilitación. Elegí esta carrera pues es muy requerida actualmente en nuestro país debido a la gran falta de aparatos médicos. </p>
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> Como coordinador del prototipado electrónico, me encargaré del ensamblaje, pruebas y validación del sistema electrónico, asegurando su funcionamiento. </p>
 
