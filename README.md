@@ -13,21 +13,21 @@
 
 <h3> Nombre 2 </h3>
 
-> <h4> Presentación 2 </h4>
+> <h4> Presentación </h4>
 > <p align="justify"> Descripción 2 </p>
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> ROl 2 </p>
 
-<h3> Nombre 3 </h3>
+<h3> Leonardo Gabriel Samillán García </h3>
 
-> <h4> Presentación 3 </h4>
-> <p align="justify"> Descripción 3 </h4>
+> <h4> Presentación </h4>
+> <p align="justify"> Mi nombre es Leonardo, estoy estudiando ingeniería biomédica y actualmente estoy en el 4to ciclo de la carrera. Espero llevarme una experiencia enriquecedora con este proyecto. </h4>
 > <h4> Rol en el equipo</h4>
-> <p align="justify"> Rol 3 </p>
+> <p align="justify"> Como cordinador general, mi rol consiste en dirigir, ayudar y supervisar que cada área, tarea y proceso se cumpla de manera satisfactoria en orden de llevar a cabo el proyecto de manera eficiente. Como tal, debo estar preparado para resolver problemas, asegurar la comunicación y optimizar recursos. </p>
 
 <h3> Nombre 4</h3>
 
-> <h4> Presentación 4 </h4>
+> <h4> Presentación </h4>
 > <p align="justify"> Descripción 4 </h4>
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> Rol 4 </p>
