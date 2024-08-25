@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="[https://fundbio.github.io/images/pucp_upch.png]>
+</p>
+
+[![pucp.png](https://i.postimg.cc/XYL9GXMR/pucp.png)](https://postimg.cc/rDdD7Vwj)
+---
+
 <b><p align="center"> FUNDAMENTOS DE BIODISEÑO 2024-1 </b>
 <h1><p align="center"> EQUIPO 10 </p></h1>
 
