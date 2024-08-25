@@ -3,7 +3,7 @@
 
 <h2> INTEGRANTES </h2>
 
-<h3> Alonso Vásquez Tantaleán </h3>
+<h3> Alonso Vásquez Tantaleán (Diseño 3D)</h3>
 
 > <h4> Presentación </h4>
 >
