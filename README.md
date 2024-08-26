@@ -35,7 +35,7 @@
 <h3> Matias Ore Gomez (Manufactura digital) </h3>
 
 > <h4> Presentación </h4>
-> <p align="justify"> Soy Sergio Condor y estoy estudiando ing biomedica y voy en 3er ciclo de la carrera , me matricule al curso para adelantar,en mi tiempo libre me gusta conocer/investigar nueva tecnologica, me gusta el anime y los videojuegos.</h4>
+> <p align="justify"> Estudiante de Ing. Biomédica de 4to ciclo. </h4>
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> Como manufacturador digital, debo ayudar a diseñar, simular y optimizar productos y procesos utilizando herramientas digitales. Apoyaré en la creación de modelos 3D y fabricación aditiva (impresión 3D). </p>
 
