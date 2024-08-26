@@ -5,7 +5,7 @@
 [![pucp.png](https://i.postimg.cc/XYL9GXMR/pucp.png)](https://postimg.cc/rDdD7Vwj)
 ---
 
-<b><p align="center"> FUNDAMENTOS DE BIODISEÑO 2024-1 </b>
+<b><p align="center"> FUNDAMENTOS DE BIODISEÑO 2024-2 </b>
 <h1><p align="center"> EQUIPO 10 </p></h1>
 
 <h2> INTEGRANTES </h2>
