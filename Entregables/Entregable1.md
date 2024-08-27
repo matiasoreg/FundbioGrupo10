@@ -39,27 +39,6 @@ Fundamentación:
 
 
 # Estado del arte - Evidencia Científica 
-El estado del arte se refiere a una técnica de investigación documental que facilita el análisis del conocimiento previamente desarrollado y registrado en textos en un campo específico. Al llevar a cabo un estado del arte, se fomenta la difusión de información, se estimula la búsqueda de conocimiento y se permite la comparación con otros cuerpos de conocimiento similares, lo que ofrece diversas perspectivas para entender el problema abordado. En resumen, proporciona múltiples enfoques para el estudio de una cuestión determinada. [6].
-
-En el caso de nuestro proyecto, debido a la rama tocada en clase, lo direccionamos a solucionar la problemática de manera tecnológica, por ende, se realiza la búsqueda de artículos provenientes de fuentes viables y verificables referencien al uso de soluciones tecnológicas aplicadas a la problemática asignada.
-
-La comunidad científica ha realizado aportes previamente sobre nuestro tema de interés. De hecho han desarrollado tecnología open-hardware acerca de "Software de Reconocimiento Automatizado". Además es importante definir para nuestro proyecto, el campo de aplicación al que queremos llegar; si bien los equipos de investigación científica ya cuentan con una gran presencia en las industrias principales, su valor en el mercado naturalmente corresponde a sus características técnicas y va de la mano con el rendimiento necesario para determinados sectores.
-
-Conociendo toda esa información, es posible profundizar sobre cómo es tratado el desarrollo de nuevas tecnologías open-hardware. Es de saber que un microscopio al día de hoy se encuentra presente en una gran variedad de sectores, dentro de ellos, la investigación científica la cual cada vez requiere de nuevas técnicas de estudio específicas para su objetivo. Por ejemplo, si ampliamos nuestras fronteras a países extranjeros, existen diversos métodos para la detección de malaria. Cada uno de estos métodos difiere en efectividad, tipos de equipos médicos, metodología, entre otros. Por hacer mención de algunos métodos ya existentes se describirá brevemente su metodología.
-
-**1.- Frotis/extensión fina:** -Se toma una pequeña muestra de sangre del paciente para obtener un frotis que es llevado a analizar en un microscopio por un especialista, en base a la determinación de eritrocitos anormales se determina si el paciente presenta malaria.[7] 
-
-**2.- Pruebas Rápidas de Diagnóstico (RDT):** -En este método también se hace uso de una muestra de sangre que se puede obtener mediante un pinchazo en el dedo, la diferencia radica en que la muestra se ingresa al dispositivo RDT que contiene reactivos específicps que determinan la presencia de *plasmodium* en la sangre. EL resultado se visualiza 15mn-20mn después mediante una linea que se traza en el dispositivo RDT producto de la reacción química.[8] 
-
-**3.- Pruebas Moleculares:** -Estas pruebas, por su mecanismo de detección, ya presentan una mayor precisión, puesto que se detemermina mediante PCR si existe material génetico de la malaria en la sangre u otros fluidos biológicos. También mediante una muestra (generalmente sangre), se procede a extraer el ADN en su interior para proceder a purificarlo y realizar un PCR que servirá para amplificar regiones específicas del genoma del parásito de la malaria. La detección de ampliación de ADN refiere a un resultado positivo mientras que aquellas secuencias que no se amplificaron refiere a uno negativo.[9] 
-
-**4.- Gota gruesa:** Con esta prueba se confirma la presencia de malaria a través de una muestra de sangre del paciente, esta se extiende sobre un portaobjetos de vidrio para posteriormente teñirla. Este método detecta la enfermedad incluso cuando el porcentaje de parásitos es baja en la sangre, lo que es ventajoso para un diagnóstico temprano [10].
-
-**5.- Técnicas serológicas:** detección de anticuerpos, uso de las pruebas ELISA (ensayo por inmunoabsorción ligado a enzimas) y pruebas de inmunofluorescencia indirecta (IFI). La desventaja de este método es que no pueden distinguir entre una infección activa y una pasada. [10]
-
-La malaria tiene seis  especies de, Plasmodium, P. falciparum, P. vivax, P. malariae, P. ovale  curtisi, P. ovale wallikeri  y  P. knowlesi [11]. Es de importancia saber que tipo de plasmodium tiene el paciente para que reciba el tratamiento adecuado, debido a que especie responde de manera diferente.
-
-La microscopía manual sigue siendo una práctica común en el diagnóstico de la malaria y la investigación médica, pero su efectividad puede fluctuar debido a las disparidades en la formación y los métodos utilizados en el terreno. Los sistemas de diagnóstico automatizado, basados en técnicas de aprendizaje automático, prometen mejorar la uniformidad y la precisión de la microscopía en entornos de campo. [12]
 
 
 
