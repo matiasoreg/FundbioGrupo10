@@ -56,28 +56,3 @@ https://repositorio.esan.edu.pe/server/api/core/bitstreams/929ad5a6-eac8-4141-b6
 
 [3]
 https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1130-63432021000400002**
-
-[4] 
-Centro Nacional de Epidemiología, Prevención y Control de Enfermedades, “Número de casos de malaria, Perú 2020 – 2024”,  Ene. 18, 2024. https://www.dge.gob.pe/portalnuevo/
-
-[5] 
-F. iO, “Situación de la malaria en Perú,” Fundación iO, Sep. 16, 2023. https://fundacionio.com/malaria-en-peru-2/
-
-[6] N. P.  Molina, "HERRAMIENTAS PARA INVESTIGAR ¿Qué es el estado del arte?," Ciencia y Tecnología para la salud Visual y Ocular, no. 5, pp. 1 - 3, Julio - diciembre 2005.
-
-[7]
-D. K. Das, R. Mukherjee, and C. Chakraborty, “Computational microscopic imaging for malaria parasite detection: a systematic review,” Journal of Microscopy, vol. 260, no. 1, pp. 1–19, Jun. 2015, doi: 10.1111/jmi.12270.
-
-[8]
-“Current infectious disease reports,” SpringerLink, Apr. 11, 2024. https://link.springer.com/journal/11908 
-
-[9]
-L. Valdés, J. Quintero, M. Jiménez, P. Chaparro, and Sensibilidad, “Sensibilidad y especificidad de las técnicas moleculares PCR (Polymerase Chain Reaction), LAMP (Loop-mediated isothermal amplificaction), inmunocromatografícas (PDR – Pruebas de Diagnóstico Rápido) vs la microscopía en el diagnóstico de la malaria: una revision sistemática.,” vol. 6, no. 3. Universidad Regional Autónoma de los Andes, p. 1456, Sep. 01, 2023, doi: 10.61154/rucs.v6i3.2480.
-
-[10]
-“Repositorio Digital UNESUM: Malaria en Latinoamérica. Diagnóstico y situación epidemiológica actual”. Repositorio Digital UNESUM 19, abril, 2022 https://repositorio.unesum.edu.ec/handle/53000/5601
-
-[11]
-“Vista de Actualización de malaria | Revista Medica Sinergia”. Revista Medica Sinergia. 19, abr, 2019. https://www.revistamedicasinergia.com/index.php/rms/article/view/616/1063
-
-[12] Das, D., Vongpromek, R., Assawariyathipat, T. et al. Field evaluation of the diagnostic performance of EasyScan GO: a digital malaria microscopy device based on machine-learning. Malar J 21, 122 (2022). https://doi.org/10.1186/s12936-022-04146-1
