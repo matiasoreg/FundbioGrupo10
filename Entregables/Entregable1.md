@@ -28,7 +28,7 @@ En el ámbito clínico, el agitador magnético de laboratorio es una herramienta
 
 [![Ishikawa.jpg](https://i.postimg.cc/YCBrkdSW/Ishikawa.jpg)](https://postimg.cc/TpQMJqgd)
 
-# Definición de la problemática
+# Problemática
 Preparación Consistente y segura de Mezclas Médicas.
 
 Fundamentación:
