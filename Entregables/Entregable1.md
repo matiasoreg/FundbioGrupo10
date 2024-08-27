@@ -32,7 +32,9 @@ En el ámbito clínico, el agitador magnético de laboratorio es una herramienta
 Preparación Consistente y segura de Mezclas Médicas.
 
 Fundamentación:
+
 -Inconsistencia al momento de mezclar medicinas (sueros y diluidos) lo cual puede llevar a dosis erróneas y poner en riesgo al paciente. 
+
 -Pérdida de tiempo: El tiempo usado para mezclar medicinas manualmente puede ser usado para otras tareas. 
 
 
