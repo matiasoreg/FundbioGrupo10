@@ -1,11 +1,11 @@
 # Introducción
-## 1. Definición OpenHardware
-El término 'Open Hardware' hace referencia a hardware cuyo interfaz o software está disponible de manera libre para que pueda ser estudiado, modificado y distribuido sin restricciones. Esto permite el intercambio y la colaboración en el desarrollo de tecnología. [1]
+## 1. Definición de término "Open Hardware"
 
-No obstante, es esencial que los términos de distribución cumplan con ciertos requisitos. En primer lugar, el hardware debe incluir una documentación adecuada de sus archivos, ya sean físicos o digitales, y especificar qué partes del diseño están disponibles para su uso. Además, si es necesario, debe incluir software de código abierto. La licencia debe permitir modificaciones y distribución del hardware sin exigir regalías, aunque podría requerir atribuciones. También, la licencia no debe discriminar a ningún grupo social, y los derechos de la licencia deben ser concedidos a quienes redistribuyan el hardware. [1]
+Open Hardware se refiere a hardware cuyo diseño y documentación están disponibles públicamente para que cualquiera pueda estudiarlo, modificarlo y redistribuirlo. Esto incluye esquemas eléctricos, planos de diseño y listas de materiales, junto con licencias que permiten la modificación y redistribución sin restricciones excesivas, promoviendo la transparencia y la colaboración. [1]
 
-El uso de software libre fomenta el aprendizaje al permitir que otros lo utilicen como base para desarrollar, estudiar y adaptar el software según sus necesidades o preferencias.[2]
+Ejemplos prominentes incluyen plataformas como Arduino y RepRap, que facilitan la innovación y el aprendizaje práctico en ingeniería y diseño. Este enfoque no solo reduce costos y mejora la accesibilidad, sino que también fomenta la colaboración comunitaria y la creación de nuevas versiones y mejoras.
 
+Recursos clave como la Open Source Hardware Association (OSHWA) y documentos como "The Open Source Hardware Definition" proporcionan directrices y fundamentos para el desarrollo y uso del hardware abierto, respaldando su impacto en la tecnología y la educación.
 
 ## 2. Contexto Social
 
@@ -57,8 +57,6 @@ La microscopía manual sigue siendo una práctica común en el diagnóstico de l
 
 # Referencias bibliográficas
 [1] Open Source Hardware Association. Definition. [Online]. Disponible: https://www.oshwa.org/definition/ 
-
-[2] Free Software Foundation. Free software is software that gives you the user the freedom to share, study and modify it. We call this free software because the user is free. [Online]. Disponible: https://www.fsf.org/about/what-is-free-software
 
 [3]
 R. Varo, C. Chaccour, and Q. Bassat, “Update on malaria,” vol. 155, no. 9. Elsevier BV, p. 395, Jun. 30, 2020, doi: 10.1016/j.medcli.2020.05.010.
