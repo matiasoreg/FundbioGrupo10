@@ -39,6 +39,11 @@ Fundamentación:
 
 
 # Estado del arte - Evidencia Científica 
+Articulo Cientifico: Unidades de preparación centralizada de medicamentos: práctica esencial para la seguridad del paciente. (2021)
+
+Autores: Anna Herranz y Sagrario Pernia.
+
+Resumen: En el artículo científico, se analiza la importancia de la preparación de medicamentos en los Servicios de Farmacia Hospitalaria. Esta idea nace durante la pandemia de COVID-19 en la cual, por la coyuntura, se crearon tecnologías para la preparación de medicamentos necesarios, reduciendo los errores que un humano podría cometer. Las tecnologías usadas fueron: robots, bombas de dosificación y sistemas de código de barras. A pesar de los diferentes inventos y avances, sigue existiendo una brecha entre la implementación de las nuevas tecnologías y que tan disponibles/accesibles son. Por ende, el artículo llama a líderes capacitados para crear una nueva cultura donde se implementen estos nuevos elementos de seguridad para mejorar los procesos clínicos. 
 
 
 
