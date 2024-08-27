@@ -1,5 +1,5 @@
 # Introducción
-## 1. Definición OpenHardware OpenSoftware
+## 1. Definición OpenHardware
 El término 'Open Hardware' hace referencia a hardware cuyo interfaz o software está disponible de manera libre para que pueda ser estudiado, modificado y distribuido sin restricciones. Esto permite el intercambio y la colaboración en el desarrollo de tecnología. [1]
 
 No obstante, es esencial que los términos de distribución cumplan con ciertos requisitos. En primer lugar, el hardware debe incluir una documentación adecuada de sus archivos, ya sean físicos o digitales, y especificar qué partes del diseño están disponibles para su uso. Además, si es necesario, debe incluir software de código abierto. La licencia debe permitir modificaciones y distribución del hardware sin exigir regalías, aunque podría requerir atribuciones. También, la licencia no debe discriminar a ningún grupo social, y los derechos de la licencia deben ser concedidos a quienes redistribuyan el hardware. [1]
@@ -9,19 +9,19 @@ El uso de software libre fomenta el aprendizaje al permitir que otros lo utilice
 
 ## 2. Contexto Social
 
-Un agitador magnético puede ser crucial para la producción local de medicamentos, permitiendo la autosuficiencia y el desarrollo económico local. Esto facilita la producción de medicamentos básicos en zonas alejadas del país, donde la industria farmacéutica no está tan presente y/o desarrollada correctamente.
+* Un agitador magnético puede ser crucial para la producción local de medicamentos, permitiendo la autosuficiencia y el desarrollo económico local. Esto facilita la producción de medicamentos básicos en zonas alejadas del país, donde la industria farmacéutica no está tan presente y/o desarrollada correctamente.
 
-. El agitador magnético de laboratorio es fundamental en aplicaciones médicas para la creación de medicamentos, ya que permite mezclar de manera uniforme y precisa soluciones químicas y biológicas, asegurando la homogeneidad de los compuestos activos. Esto es crucial en la producción de medicamentos biológicos, como vacunas y proteínas terapéuticas, donde la consistencia en las mezclas es esencial para garantizar la eficacia y seguridad del producto final. Además, su capacidad para mantener condiciones controladas durante procesos de síntesis y cultivo celular contribuye al desarrollo de tratamientos innovadores y personalizados.
+* El agitador magnético de laboratorio es fundamental en aplicaciones médicas para la creación de medicamentos, ya que permite mezclar de manera uniforme y precisa soluciones químicas y biológicas, asegurando la homogeneidad de los compuestos activos. Esto es crucial en la producción de medicamentos biológicos, como vacunas y proteínas terapéuticas, donde la consistencia en las mezclas es esencial para garantizar la eficacia y seguridad del producto final. Además, su capacidad para mantener condiciones controladas durante procesos de síntesis y cultivo celular contribuye al desarrollo de tratamientos innovadores y personalizados.
 
 ## 3. Contexto Clinico
 
 En el ámbito clínico, el agitador magnético de laboratorio es una herramienta esencial en varias fases del desarrollo y producción de medicamentos. Su utilidad se extiende a diversas áreas, como la formulación de medicamentos, el cultivo de células para terapias biológicas y la preparación de soluciones farmacéuticas.
 
-### Formulación de Medicamentos
+### Sobre la Formulación de Medicamentos
 
-**Preparación de Soluciones Intravenosas (IV):** En la preparación de soluciones intravenosas, que requieren una mezcla homogénea de fármacos y diluyentes, el agitador magnético asegura que los componentes se disuelvan completamente y se mezclen de manera correcta, reduciendo el riesgo de efectos adversos debido a una dosificación incorrecta o ineficaz.
+* **Preparación de Soluciones Intravenosas (IV):** En la preparación de soluciones intravenosas, que requieren una mezcla homogénea de fármacos y diluyentes, el agitador magnético asegura que los componentes se disuelvan completamente y se mezclen de manera correcta, reduciendo el riesgo de efectos adversos debido a una dosificación incorrecta o ineficaz.
 
-**Creación de Suspensiones y Emulsiones:** Para medicamentos que no se disuelven fácilmente en agua, como ciertos antibióticos y hormonas, el agitador magnético permite la preparación de suspensiones y emulsiones estables, garantizando que el medicamento tenga la concentración adecuada y una distribución uniforme en el frasco.
+* **Creación de Suspensiones y Emulsiones:** Para medicamentos que no se disuelven fácilmente en agua, como ciertos antibióticos y hormonas, el agitador magnético permite la preparación de suspensiones y emulsiones estables, garantizando que el medicamento tenga la concentración adecuada y una distribución uniforme en el frasco.
 
 # Diagrama de Ishikawa
 
