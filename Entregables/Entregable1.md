@@ -29,7 +29,11 @@ En el ámbito clínico, el agitador magnético de laboratorio es una herramienta
 [![Ishikawa.jpg](https://i.postimg.cc/YCBrkdSW/Ishikawa.jpg)](https://postimg.cc/TpQMJqgd)
 
 # Definición de la problemática
-La falta de un proceso automatizado, de bajo coste y eficaz para la diferenciación de las especies de Plasmodium con un microscopio en el Perú genera dificultades en la alerta temprana de la malaria y en la recopilación precisa de datos epidemiológicos.
+Preparación Consistente y segura de Mezclas Médicas.
+Fundamentación:
+  Inconsistencia al momento de mezclar medicinas (sueros y diluidos) lo cual puede llevar a dosis erróneas y poner en riesgo al paciente. 
+  Pérdida de tiempo: El tiempo usado para mezclar medicinas manualmente puede ser usado para otras tareas. 
+
 
 # Estado del arte - Evidencia Científica 
 El estado del arte se refiere a una técnica de investigación documental que facilita el análisis del conocimiento previamente desarrollado y registrado en textos en un campo específico. Al llevar a cabo un estado del arte, se fomenta la difusión de información, se estimula la búsqueda de conocimiento y se permite la comparación con otros cuerpos de conocimiento similares, lo que ofrece diversas perspectivas para entender el problema abordado. En resumen, proporciona múltiples enfoques para el estudio de una cuestión determinada. [6].
