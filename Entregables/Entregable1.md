@@ -39,7 +39,7 @@ Fundamentación:
 
 
 # Estado del arte - Evidencia Científica 
-Articulo Cientifico: Unidades de preparación centralizada de medicamentos: práctica esencial para la seguridad del paciente. (2021)
+Articulo Cientifico: Unidades de preparación centralizada de medicamentos: práctica esencial para la seguridad del paciente. (2021) [3]
 
 Autores: Anna Herranz y Sagrario Pernia.
 
@@ -55,7 +55,7 @@ Open Source Hardware Association. Definition. [Online]. Disponible: https://www.
 https://repositorio.esan.edu.pe/server/api/core/bitstreams/929ad5a6-eac8-4141-b693-4547403ad4c2/content
 
 [3]
-R. Varo, C. Chaccour, and Q. Bassat, “Update on malaria,” vol. 155, no. 9. Elsevier BV, p. 395, Jun. 30, 2020, doi: 10.1016/j.medcli.2020.05.010.
+https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1130-63432021000400002**
 
 [4] 
 Centro Nacional de Epidemiología, Prevención y Control de Enfermedades, “Número de casos de malaria, Perú 2020 – 2024”,  Ene. 18, 2024. https://www.dge.gob.pe/portalnuevo/
