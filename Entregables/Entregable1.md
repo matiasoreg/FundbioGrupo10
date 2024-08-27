@@ -9,7 +9,8 @@ Recursos clave como la Open Source Hardware Association (OSHWA) y documentos com
 
 ## 2. Contexto Social
 
-* Un agitador magnético puede ser crucial para la producción local de medicamentos, permitiendo la autosuficiencia y el desarrollo económico local. Esto facilita la producción de medicamentos básicos en zonas alejadas del país, donde la industria farmacéutica no está tan presente y/o desarrollada correctamente.
+* Un agitador magnético puede ser crucial para la producción local de medicamentos, permitiendo la autosuficiencia y el desarrollo económico local. Esto facilita la producción de medicamentos básicos en zonas alejadas del país, donde la industria farmacéutica no está tan presente y/o desarrollada correctamente. [2]
+
 
 * El agitador magnético de laboratorio es fundamental en aplicaciones médicas para la creación de medicamentos, ya que permite mezclar de manera uniforme y precisa soluciones químicas y biológicas, asegurando la homogeneidad de los compuestos activos. Esto es crucial en la producción de medicamentos biológicos, como vacunas y proteínas terapéuticas, donde la consistencia en las mezclas es esencial para garantizar la eficacia y seguridad del producto final. Además, su capacidad para mantener condiciones controladas durante procesos de síntesis y cultivo celular contribuye al desarrollo de tratamientos innovadores y personalizados.
 
@@ -56,7 +57,11 @@ La microscopía manual sigue siendo una práctica común en el diagnóstico de l
 
 
 # Referencias bibliográficas
-[1] Open Source Hardware Association. Definition. [Online]. Disponible: https://www.oshwa.org/definition/ 
+[1] 
+Open Source Hardware Association. Definition. [Online]. Disponible: https://www.oshwa.org/definition/ 
+
+[2]
+https://repositorio.esan.edu.pe/server/api/core/bitstreams/929ad5a6-eac8-4141-b693-4547403ad4c2/content
 
 [3]
 R. Varo, C. Chaccour, and Q. Bassat, “Update on malaria,” vol. 155, no. 9. Elsevier BV, p. 395, Jun. 30, 2020, doi: 10.1016/j.medcli.2020.05.010.
