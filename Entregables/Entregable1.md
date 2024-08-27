@@ -1,19 +1,27 @@
 # Introducción
 ## 1. Definición OpenHardware OpenSoftware
-"Open Hardware" se refiere a aquel cuyo interfaz o software es de libre uso con el fin de estudiarlo, modificarlo y distribuirlo sin restricción alguna. De esta forma se accede a la posibilidad de compartir tecnología. [1]
+El término 'Open Hardware' hace referencia a hardware cuyo interfaz o software está disponible de manera libre para que pueda ser estudiado, modificado y distribuido sin restricciones. Esto permite el intercambio y la colaboración en el desarrollo de tecnología. [1]
 
-Sin embargo, es fundamental que los términos de distribución cumplan con ciertos requerimientos. En primero lugar, el hardware deberá incluir la correcta documentación de los archivos propios del mismo ya sea físico o virtual; así como la clarificación sobre qué partes del diseño estarán siendo liberadas; asimismo, incluir software de código abierto si es necesario; por otro lado, la licencia deberá permitir modificaciones y distribución del hardware sin el requerimiento de regalías, sin embargo podría solicitar atribuciones; además, no deberá discriminar a ningún grupo social; finalmente, los derechos de la licencia serán otorgados a los redistribuidores. [1]
+No obstante, es esencial que los términos de distribución cumplan con ciertos requisitos. En primer lugar, el hardware debe incluir una documentación adecuada de sus archivos, ya sean físicos o digitales, y especificar qué partes del diseño están disponibles para su uso. Además, si es necesario, debe incluir software de código abierto. La licencia debe permitir modificaciones y distribución del hardware sin exigir regalías, aunque podría requerir atribuciones. También, la licencia no debe discriminar a ningún grupo social, y los derechos de la licencia deben ser concedidos a quienes redistribuyan el hardware. [1]
 
-Con respecto al uso del software libre, este promueve el aprendizaje pues otros pueden construir sobre estos para que pue da ser estudiado, usado y transformado según las necesidades o preferencias del modificador.[2]
+El uso de software libre fomenta el aprendizaje al permitir que otros lo utilicen como base para desarrollar, estudiar y adaptar el software según sus necesidades o preferencias.[2]
 
 
-## 2. Contexto de la Malaria en el Perú
-La malaria es la enfermedad parasitaria más importante del mundo, causa una enorme carga de morbimortalidad en zonas endémicas. Es transmitida por mosquitos hembra Anopheles y resulta de la infección de un huésped vulnerable por parásitos Plasmodium. Las especies que afectan al humano son las siguientes: Plasmodium falciparum, Plasmodium vivax, Plasmodium ovale, Plasmodium malariae y Plasmodium knowlesi. Siendo las más frecuentes: Plasmodium, vivax y falciparum.[3]
+## 2. Contexto Social
 
-Respecto al problema de salud que representa, casi la mitad de la población mundial se encuentra en riesgo de padecer malaria, la enfermedad es especialmente endémica en 86 países tropicales y subtropicales, abarcando todo el África subsahariana, así como grandes áreas del Sudeste Asiático, el Mediterráneo Oriental, el Pacífico Occidental, y las Américas.[3]
+Un agitador magnético puede ser crucial para la producción local de medicamentos, permitiendo la autosuficiencia y el desarrollo económico local. Esto facilita la producción de medicamentos básicos en zonas alejadas del país, donde la industria farmacéutica no está tan presente y/o desarrollada correctamente.
 
-En el Perú, la malaria se concentra principalmente en el departamento de Loreto, donde la transmisión se mantiene en comunidades rurales y periurbanas. Loreto es el departamento con el nivel de vulnerabilidad más alto. Según el Centro Nacional de Epidemiología, Prevención y Control de Enfermedades, durante el año 2023, de los 22552 casos acumulados, el 95.9% de casos reportados de malaria se concentró en los departamentos de Loreto y Amazonas, además de ser la especie Plasmodium vivax, la que agrupa la mayor cantidad de casos[4]. Esta situación se debe a que en la región amazónica no se cuentan con pruebas para el diagnóstico oportuno a las personas con síntomas de malaria, así como por la falta de medicamentos esenciales y adecuados para su tratamiento.[5]
+. El agitador magnético de laboratorio es fundamental en aplicaciones médicas para la creación de medicamentos, ya que permite mezclar de manera uniforme y precisa soluciones químicas y biológicas, asegurando la homogeneidad de los compuestos activos. Esto es crucial en la producción de medicamentos biológicos, como vacunas y proteínas terapéuticas, donde la consistencia en las mezclas es esencial para garantizar la eficacia y seguridad del producto final. Además, su capacidad para mantener condiciones controladas durante procesos de síntesis y cultivo celular contribuye al desarrollo de tratamientos innovadores y personalizados.
 
+## 3. Contexto Clinico
+
+En el ámbito clínico, el agitador magnético de laboratorio es una herramienta esencial en varias fases del desarrollo y producción de medicamentos. Su utilidad se extiende a diversas áreas, como la formulación de medicamentos, el cultivo de células para terapias biológicas y la preparación de soluciones farmacéuticas.
+
+### Formulación de Medicamentos
+
+**Preparación de Soluciones Intravenosas (IV):** En la preparación de soluciones intravenosas, que requieren una mezcla homogénea de fármacos y diluyentes, el agitador magnético asegura que los componentes se disuelvan completamente y se mezclen de manera correcta, reduciendo el riesgo de efectos adversos debido a una dosificación incorrecta o ineficaz.
+
+**Creación de Suspensiones y Emulsiones:** Para medicamentos que no se disuelven fácilmente en agua, como ciertos antibióticos y hormonas, el agitador magnético permite la preparación de suspensiones y emulsiones estables, garantizando que el medicamento tenga la concentración adecuada y una distribución uniforme en el frasco.
 
 # Diagrama de Ishikawa
 
