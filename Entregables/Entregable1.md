@@ -1,5 +1,5 @@
 # Introducción
-## 1. Definición de término "Open Hardware"
+## 1. Definición del término "Open Hardware"
 
 El Open Hardware se refiere al hardware cuyo diseño y documentación están disponibles públicamente para que cualquiera pueda estudiarlo, modificarlo y redistribuirlo. Esto incluye esquemas eléctricos, planos de diseño y listas de materiales, junto con licencias que permiten la modificación y redistribución sin restricciones excesivas, promoviendo la transparencia y la colaboración de cualquier persona. [1]
 
