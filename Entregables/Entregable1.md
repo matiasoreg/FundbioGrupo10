@@ -1,24 +1,24 @@
 # Introducción
 ## 1. Definición de término "Open Hardware"
 
-Open Hardware se refiere a hardware cuyo diseño y documentación están disponibles públicamente para que cualquiera pueda estudiarlo, modificarlo y redistribuirlo. Esto incluye esquemas eléctricos, planos de diseño y listas de materiales, junto con licencias que permiten la modificación y redistribución sin restricciones excesivas, promoviendo la transparencia y la colaboración. [1]
+El Open Hardware se refiere al hardware cuyo diseño y documentación están disponibles públicamente para que cualquiera pueda estudiarlo, modificarlo y redistribuirlo. Esto incluye esquemas eléctricos, planos de diseño y listas de materiales, junto con licencias que permiten la modificación y redistribución sin restricciones excesivas, promoviendo la transparencia y la colaboración de cualquier persona. [1]
 
-Ejemplos prominentes incluyen plataformas como Arduino y RepRap, que facilitan la innovación y el aprendizaje práctico en ingeniería y diseño. Este enfoque no solo reduce costos y mejora la accesibilidad, sino que también fomenta la colaboración comunitaria y la creación de nuevas versiones y mejoras.
+Ejemplos prominentes incluyen plataformas como Arduino y RepRap, que facilitan y promueven la innovación y el aprendizaje práctico en ingeniería y diseño. Este enfoque no solo reduce costos y da una mejor accesibilidad, sino que también fomenta la colaboración comunitaria y la creación de nuevas versiones y mejoras.
 
 Recursos clave como la Open Source Hardware Association (OSHWA) y documentos como "The Open Source Hardware Definition" proporcionan directrices y fundamentos para el desarrollo y uso del hardware abierto, respaldando su impacto en la tecnología y la educación.
 
-## 2. Contexto Social
+## 2. Contexto social
 
 * Un agitador magnético puede ser crucial para la producción local de medicamentos, permitiendo la autosuficiencia y el desarrollo económico local. Esto facilita la producción de medicamentos básicos en zonas alejadas del país, donde la industria farmacéutica no está tan presente y/o desarrollada correctamente. [2]
 
 
 * El agitador magnético de laboratorio es fundamental en aplicaciones médicas para la creación de medicamentos, ya que permite mezclar de manera uniforme y precisa soluciones químicas y biológicas, asegurando la homogeneidad de los compuestos activos. Esto es crucial en la producción de medicamentos biológicos, como vacunas y proteínas terapéuticas, donde la consistencia en las mezclas es esencial para garantizar la eficacia y seguridad del producto final. Además, su capacidad para mantener condiciones controladas durante procesos de síntesis y cultivo celular contribuye al desarrollo de tratamientos innovadores y personalizados.
 
-## 3. Contexto Clinico
+## 3. Contexto clínico
 
 En el ámbito clínico, el agitador magnético de laboratorio es una herramienta esencial en varias fases del desarrollo y producción de medicamentos. Su utilidad se extiende a diversas áreas, como la formulación de medicamentos, el cultivo de células para terapias biológicas y la preparación de soluciones farmacéuticas.
 
-### Sobre la Formulación de Medicamentos
+### Sobre la formulación de medicamentos
 
 * **Preparación de Soluciones Intravenosas (IV):** En la preparación de soluciones intravenosas, que requieren una mezcla homogénea de fármacos y diluyentes, el agitador magnético asegura que los componentes se disuelvan completamente y se mezclen de manera correcta, reduciendo el riesgo de efectos adversos debido a una dosificación incorrecta o ineficaz.
 
