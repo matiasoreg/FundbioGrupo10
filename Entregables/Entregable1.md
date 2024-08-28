@@ -1,5 +1,5 @@
 # Introducción
-## 1. Definición del término "Open Hardware"
+## Definición del término "Open Hardware"
 
 El Open Hardware se refiere al hardware cuyo diseño y documentación están disponibles públicamente para que cualquiera pueda estudiarlo, modificarlo y redistribuirlo. Esto incluye esquemas eléctricos, planos de diseño y listas de materiales, junto con licencias que permiten la modificación y redistribución sin restricciones excesivas, promoviendo la transparencia y la colaboración de cualquier persona. [1]
 
@@ -7,7 +7,7 @@ Ejemplos prominentes incluyen plataformas como Arduino y RepRap, que facilitan y
 
 Recursos clave como la Open Source Hardware Association (OSHWA) y documentos como "The Open Source Hardware Definition" proporcionan directrices y fundamentos para el desarrollo y uso del hardware abierto, respaldando su impacto en la tecnología y la educación.
 
-## 2. Contexto social
+## Contexto social
 
 La preparación consistente y segura de mezclas médicas es un desafío crítico en la industria farmacéutica y en entornos clínicos. Cualquier variación en la composición o en la homogeneidad de las mezclas puede afectar negativamente la dosificación y, por ende, la salud del paciente. En este contexto, el uso de dispositivos de mezcla para el laboratorio se vuelve fundamental. Uno de los más utilizados es el agitador magnético. Este dispositivo asegura una mezcla uniforme y controlada de los ingredientes, reduciendo el riesgo de errores humanos y mejorando la calidad del producto final. Su capacidad para mantener condiciones estables durante la preparación de soluciones, suspensiones y emulsiones es crucial para cumplir con los estrictos estándares de calidad en la creación de medicamentos, asegurando así tratamientos más seguros y efectivos para los pacientes, por lo tanto:
 
@@ -15,7 +15,7 @@ La preparación consistente y segura de mezclas médicas es un desafío crítico
 
 * El agitador magnético de laboratorio es fundamental en aplicaciones médicas para la creación de medicamentos, ya que permite mezclar de manera uniforme y precisa soluciones químicas y biológicas, asegurando la homogeneidad de los compuestos activos. Esto es crucial en la producción de medicamentos biológicos, como vacunas y proteínas terapéuticas, donde la consistencia en las mezclas es esencial para garantizar la eficacia y seguridad del producto final. Además, su capacidad para mantener condiciones controladas durante procesos de síntesis y cultivo celular contribuye al desarrollo de tratamientos innovadores y personalizados. [3]
 
-## 3. Contexto clínico
+## Contexto clínico
 
 En el ámbito clínico, los dispositivos de mezclado, tales como el agitador magnético de laboratorio, se vuelven herramientas esenciales en varias fases del desarrollo y producción de medicamentos. Su utilidad se extiende a diversas áreas además de la medicina, también se utiliza para el cultivo de células para terapias biológicas y la preparación de soluciones con fines didácticos o experimentales. [4]
 
@@ -25,22 +25,22 @@ En el ámbito clínico, los dispositivos de mezclado, tales como el agitador mag
 
 * **Creación de Suspensiones y Emulsiones:** Para medicamentos que no se disuelven fácilmente en agua, como ciertos antibióticos y hormonas, el agitador magnético permite la preparación de suspensiones y emulsiones estables, garantizando que el medicamento tenga la concentración adecuada y una distribución uniforme en el frasco.
 
-# Problemática
+## Problemática
 Preparación consistente y segura de mezclas médicas.
 
-## Fundamentación:
+### Fundamentación:
 
 - Inconsistencia al momento de mezclar medicinas (sueros y diluidos) lo cual puede llevar a dosis erróneas y poner en riesgo al paciente. 
 
 - Pérdida de tiempo: El tiempo usado para mezclar medicinas manualmente puede ser usado para otras tareas.
 
 
-# Diagrama de Ishikawa
+## Diagrama de Ishikawa
 
 [![Soft-Blue-Minimalist-Fishbone-Diagram-Graph.png](https://i.postimg.cc/nr3QTvxH/Soft-Blue-Minimalist-Fishbone-Diagram-Graph.png)](https://postimg.cc/Pv8x5vNc)
 
 
-# Estado del arte - Evidencia científica 
+## Estado del arte - Evidencia científica 
 
 |  Título del artículo | Autor(es) | Resumen |
 | -------------------- | ---------- | -----------|
@@ -48,11 +48,11 @@ Preparación consistente y segura de mezclas médicas.
 | Premezclados como alternativa para el uso seguro de medicamentos intravenosos en escenarios de atención en salud | Matínez et al. (2022) [6] | El artículo de revisión plantea la posibilidad de usar premezclados de medicamentos como una alternativa de mejorar la calidad del tratamiento y de la atención que los pacientes reciben, específicamente para la terapia intravenosa. Se resalta el problema existente de la alta frecuencia de errores de medicación ya sea por dosis, etiquetados o proporciones incorrectas. Dicho problema genera altos índices de pérdidas y gastos innecesarios que podrían ahorrarse si se hicieran premezclados de dichos medicamentos. Esta alternativa, se estima, puede reducir los riesgos de contaminación, menor incidencia de complicaciones relacionadas con la terapia y mejorar la oportunidad de dispensación y optimización del trabajo. Para ello, se busca dar paso a la automatización de estos procesos, reduciendo significativamente la carga de trabajo humano y el tiempo invertido en preparar dichas mezclas. En consecuencia, se necesitarán equipos especializados en preparación y mezclado que garanticen la exactitud, higiene y calidad en la preparación de medicinas. |
 |Monitoring Chemistry In Situ with a Smart Stirrer: A Magnetic Stirrer Bar with an Integrated Process Monitoring System | Cherkasov et al. [7] | El artículo busca mejorar el dispositivo de agitación magnética usado en laboratorios para la mezcla de sustancias agregándole varios parámetros que considera importantes al momento de efectuar una reacción química. El dispositivo es llamado "Smart Stirrer" (agitador inteligente) y permite controlar parámetros físicos en la reacción tales como temperatura, conductivilidad, espectro visible, velocidad de agitación y viscosidad. Estos datos son llevados inalámbricamente hacia un sistema externo, como una PC o smartphone, para su procesamiento y visualización en gráficos. La ventaja que posee es que gracias a su open-source software (software de código abierto), el usuario puede cambiar la programación de acuerdo a sus necesidades. El agitador inteligente es más barato que uno promedio y se espera que pueda ser útil en las investigaciones que requieran de mezclas exactas y de alto cuidado. |
 
-# Propuesta
+## Propuesta
 
 Diseño y fabricación 3D de un agitador magnético de bajo costo capaz de satisfacer las necesidades de un laboratorio para hacer mezclas.
 
-# Referencias bibliográficas
+## Referencias bibliográficas
 [1] 
 Definition (English). (2024, 25 junio). https://www.oshwa.org/definition/
 
