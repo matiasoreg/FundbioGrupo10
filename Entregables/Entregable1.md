@@ -62,7 +62,7 @@ Fernando, L. Z. L., Enrique, C. R. C., Enrique, V. H. J., Ander, M. P. J., Leoni
 Seotechwriter. (2024, 27 junio). The Function of Magnetic Stirrers in Laboratories: Types and Uses. Wiltronics. https://www.wiltronics.com.au/wiltronics-knowledge-base/magnetic-stirrers/
 
 [5]
-Herranz, A., & Pernia, S. (2021). Centralized drug compounding units: an essential driver of patient safety. PubMed. https://doi.org/10.7399/fh.11757
+Herranz A, Pernia S. Centralized drug compounding units: an essential driver of patient safety. Farm Hosp. 2021 Jun 30;45(4):163-164. English. doi: 10.7399/fh.11757. PMID: 34218759.
 
 [6]
 Martínez Rojas, S. P., Ibatá Bernal, L. M., Taborda Restrepo, A., Ariza, J. G., & Bonilla Arteaga, K. (2022). Premezclados como alternativa para el uso seguro de medicamentos intravenosos en escenarios de atención en salud. Revista Colombiana de Ciencias Químico-Farmacéuticas, 51(3), 1065-1082.
