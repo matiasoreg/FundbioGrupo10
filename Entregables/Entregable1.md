@@ -56,3 +56,6 @@ https://repositorio.esan.edu.pe/server/api/core/bitstreams/929ad5a6-eac8-4141-b6
 
 [3]
 https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1130-63432021000400002**
+
+[4]
+http://www.scielo.org.co/scielo.php?pid=S0034-74182022000301065&script=sci_arttext
