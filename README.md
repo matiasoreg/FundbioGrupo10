@@ -12,6 +12,7 @@
 
 <h3> Alonso Vásquez Tantaleán (Diseño 3D)</h3>
 
+> <p align="center" ><img src="https://postimg.cc/wyQRxKrJ" style="width: 150px"></p>
 > <h4> Presentación </h4>
 >
 > <p align="justify"> Tengo 18 años y voy en cuarto ciclo de Ingeniería Biomédica. Elegí esta carrera por el amplio campo laboral que existe y porque combina las herramientas tecnologicas con la posibilidad de aportar a la salud de las personas. </p>
