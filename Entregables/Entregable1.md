@@ -50,19 +50,19 @@ Preparación Consistente y segura de Mezclas Médicas.
 
 # Referencias bibliográficas
 [1] 
-Open Source Hardware Association. Definition. [Online]. Disponible: https://www.oshwa.org/definition/ 
+Definition (English). (2024, 25 junio). https://www.oshwa.org/definition/
 
 [2]
-https://repositorio.esan.edu.pe/server/api/core/bitstreams/929ad5a6-eac8-4141-b693-4547403ad4c2/content
+Patricia, F. G. L. (2018). Caracterización de la industria farmacéutica peruana : obstáculos para su crecimiento. https://hdl.handle.net/20.500.12640/1354
 
 [3]
-http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1018-130X2001000400004
+Fernando, L. Z. L., Enrique, C. R. C., Enrique, V. H. J., Ander, M. P. J., Leonid, L. G., Roberto, R. L., & Jesús, P. R. (s. f.). Automedicación en cinco provincias de Cajamarca. http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1018-130X2001000400004
 
 [4]
-https://www.wiltronics.com.au/wiltronics-knowledge-base/magnetic-stirrers/
+Seotechwriter. (2024, 27 junio). The Function of Magnetic Stirrers in Laboratories: Types and Uses. Wiltronics. https://www.wiltronics.com.au/wiltronics-knowledge-base/magnetic-stirrers/
 
 [5]
-https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1130-63432021000400002**
+Herranz, A., & Pernia, S. (2021). Centralized drug compounding units: an essential driver of patient safety. PubMed. https://doi.org/10.7399/fh.11757
 
 [6]
-http://www.scielo.org.co/scielo.php?pid=S0034-74182022000301065&script=sci_arttext
+Martínez Rojas, S. P., Ibatá Bernal, L. M., Taborda Restrepo, A., Ariza, J. G., & Bonilla Arteaga, K. (2022). Premezclados como alternativa para el uso seguro de medicamentos intravenosos en escenarios de atención en salud. Revista Colombiana de Ciencias Químico-Farmacéuticas, 51(3), 1065-1082.
