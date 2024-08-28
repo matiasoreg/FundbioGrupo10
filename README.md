@@ -37,7 +37,7 @@
 
 > <p align="center" ><img src="https://i.postimg.cc/9QJvwwtt/20240701-2157452.jpg" style="width: 150px"></p>
 > <h4> Presentación </h4>
-> <p align="justify"> Estudiante de Ing. Biomédica de 4to ciclo. </h4>
+> <p align="justify"> Alumno de Ingeniería biomédica con interés en ingeniería clínica y biomecánica. </h4>
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> Como manufacturador digital, debo ayudar a diseñar, simular y optimizar productos y procesos utilizando herramientas digitales. Apoyaré en la creación de modelos 3D y fabricación aditiva (impresión 3D). </p>
 
