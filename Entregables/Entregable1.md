@@ -25,10 +25,6 @@ En el ámbito clínico, el agitador magnético de laboratorio es una herramienta
 
 * **Creación de Suspensiones y Emulsiones:** Para medicamentos que no se disuelven fácilmente en agua, como ciertos antibióticos y hormonas, el agitador magnético permite la preparación de suspensiones y emulsiones estables, garantizando que el medicamento tenga la concentración adecuada y una distribución uniforme en el frasco.
 
-# Diagrama de Ishikawa
-
-[![Soft-Blue-Minimalist-Fishbone-Diagram-Graph.png](https://i.postimg.cc/nr3QTvxH/Soft-Blue-Minimalist-Fishbone-Diagram-Graph.png)](https://postimg.cc/Pv8x5vNc)
-
 # Problemática
 Preparación Consistente y segura de Mezclas Médicas.
 
@@ -36,7 +32,12 @@ Preparación Consistente y segura de Mezclas Médicas.
 
 - Inconsistencia al momento de mezclar medicinas (sueros y diluidos) lo cual puede llevar a dosis erróneas y poner en riesgo al paciente. 
 
-- Pérdida de tiempo: El tiempo usado para mezclar medicinas manualmente puede ser usado para otras tareas. 
+- Pérdida de tiempo: El tiempo usado para mezclar medicinas manualmente puede ser usado para otras tareas.
+
+
+# Diagrama de Ishikawa
+
+[![Soft-Blue-Minimalist-Fishbone-Diagram-Graph.png](https://i.postimg.cc/nr3QTvxH/Soft-Blue-Minimalist-Fishbone-Diagram-Graph.png)](https://postimg.cc/Pv8x5vNc)
 
 
 # Estado del arte - Evidencia Científica 
