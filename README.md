@@ -35,6 +35,7 @@
 
 <h3> Matias Ore Gomez (Manufactura digital) </h3>
 
+> <p align="center" ><img src="https://i.postimg.cc/9QJvwwtt/20240701-2157452.jpg" style="width: 150px"></p>
 > <h4> Presentación </h4>
 > <p align="justify"> Estudiante de Ing. Biomédica de 4to ciclo. </h4>
 > <h4> Rol en el equipo</h4>
