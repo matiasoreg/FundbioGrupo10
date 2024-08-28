@@ -45,6 +45,3 @@
 > <p align="justify"> Soy estudiante de 4to ciclo de Ingeniería Biomédica. Tengo interés en el área de Señales e Imágenes.  </p>
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> Me encargo del diseño electrónico del prototipo con Proteus y codificación del proyecto en la interfaz de Arduino. </p>
-
-<h2> PROBLEMATICA </h2>
-
