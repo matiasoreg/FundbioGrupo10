@@ -40,7 +40,6 @@
 > <p align="justify"> Como manufacturador digital, debo ayudar a diseñar, simular y optimizar productos y procesos utilizando herramientas digitales. Apoyaré en la creación de modelos 3D y fabricación aditiva (impresión 3D). </p>
 
 <h3> Claudia Andrea Huanca Zegarra (Diseño Electrónico)</h3>
-> <p align="center" ><img src="https://i.postimg.cc/JzGCrgr1/fotoC.jpg" style="width: 150px"></p>
 > <h4> Presentación </h4>
 > <p align="justify"> Soy estudiante de 4to ciclo de Ingeniería Biomédica. Tengo interés en el área de Señales e Imágenes.  </p>
 > <h4> Rol en el equipo</h4>
