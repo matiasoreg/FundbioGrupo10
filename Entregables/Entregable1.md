@@ -26,7 +26,7 @@ En el ámbito clínico, el agitador magnético de laboratorio es una herramienta
 
 # Diagrama de Ishikawa
 
-[![Ishikawa.jpg](https://i.postimg.cc/YCBrkdSW/Ishikawa.jpg)](https://postimg.cc/TpQMJqgd)
+[![Soft-Blue-Minimalist-Fishbone-Diagram-Graph.png](https://i.postimg.cc/nr3QTvxH/Soft-Blue-Minimalist-Fishbone-Diagram-Graph.png)](https://postimg.cc/Pv8x5vNc)
 
 # Problemática
 Preparación Consistente y segura de Mezclas Médicas.
