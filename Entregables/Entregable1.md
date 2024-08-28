@@ -26,7 +26,7 @@ En el ámbito clínico, los dispositivos de mezclado, tales como el agitador mag
 * **Creación de Suspensiones y Emulsiones:** Para medicamentos que no se disuelven fácilmente en agua, como ciertos antibióticos y hormonas, el agitador magnético permite la preparación de suspensiones y emulsiones estables, garantizando que el medicamento tenga la concentración adecuada y una distribución uniforme en el frasco.
 
 # Problemática
-Preparación Consistente y segura de Mezclas Médicas.
+Preparación consistente y segura de mezclas médicas.
 
 ## Fundamentación:
 
@@ -50,7 +50,7 @@ Preparación Consistente y segura de Mezclas Médicas.
 
 # Propuesta
 
-Diseño y fabricación 3D de un agitador magnético de bajo costo capaz de satisfacer las necesidades que requiere un laboratorio para hacer mezclas.
+Diseño y fabricación 3D de un agitador magnético de bajo costo capaz de satisfacer las necesidades de un laboratorio para hacer mezclas.
 
 # Referencias bibliográficas
 [1] 
