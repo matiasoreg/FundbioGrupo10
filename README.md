@@ -27,6 +27,7 @@
 
 <h3> Leonardo Gabriel Samillán García (Coordinador general) </h3>
 
+<p align="center" ><img src="https://i.postimg.cc/tgxkPjjj/foto2.jpg" style="width: 150px"></p>
 > <h4> Presentación </h4>
 > <p align="justify"> Mi nombre es Leonardo, estoy estudiando ingeniería biomédica y actualmente estoy en el 4to ciclo de la carrera. Espero llevarme una experiencia enriquecedora con este proyecto. </h4>
 > <h4> Rol en el equipo</h4>
