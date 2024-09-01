@@ -10,14 +10,14 @@
 
 <h2> INTEGRANTES </h2>
 
-<h3> Alonso Vásquez Tantaleán (Diseño 3D)</h3>
+<h3> Leonardo Gabriel Samillán García (Coordinador general) </h3>
 
-> <p align="center" ><img src="https://i.postimg.cc/C1WGNSHv/2525333-F-3-ADE-4759-8-A1-C-22482-C192-C37.jpg" style="width: 150px"></p>
+> <p align="center" ><img src="https://i.postimg.cc/tgxkPjjj/foto2.jpg " style="width: 150px"></p>
 > <h4> Presentación </h4>
 >
-> <p align="justify"> Tengo 18 años y voy en cuarto ciclo de Ingeniería Biomédica. Elegí esta carrera por el amplio campo laboral que existe y porque combina las herramientas tecnologicas con la posibilidad de aportar a la salud de las personas. </p>
+> <p align="justify">  Mi nombre es Leonardo, estoy estudiando ingeniería biomédica y actualmente estoy en el 4to ciclo de la carrera. Espero llevarme una experiencia enriquecedora con este proyecto.  </p>
 > <h4> Rol en el equipo</h4>
-> <p align="justify"> Me encargare del diseño 3D de nuestro prototipo mediante el uso de diferentes programas como Autodesk Inventor o Ultimaker Cura. </p>
+> <p align="justify"> Como cordinador general, mi rol consiste en dirigir, ayudar y supervisar que cada área, tarea y proceso se cumpla de manera satisfactoria en orden de llevar a cabo el proyecto de manera eficiente. Como tal, debo estar preparado para resolver problemas, asegurar la comunicación y optimizar recursos. </p>
 
 <h3> Gustavo Alonso Maldonado Uriarte (Prototipado Electrónico) </h3>
 
@@ -27,13 +27,13 @@
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> Como coordinador del prototipado electrónico, me encargaré del ensamblaje, pruebas y validación del sistema electrónico, asegurando su funcionamiento. </p>
 
-<h3> Leonardo Gabriel Samillán García (Coordinador general) </h3>
+<h3> Alonso Vásquez Tantaleán (Diseño 3D) </h3>
 
-<p align="center" ><img src="https://i.postimg.cc/tgxkPjjj/foto2.jpg" style="width: 150px"></p>
+<p align="center" ><img src="https://i.postimg.cc/C1WGNSHv/2525333-F-3-ADE-4759-8-A1-C-22482-C192-C37.jpg" style="width: 150px"></p>
 > <h4> Presentación </h4>
-> <p align="justify"> Mi nombre es Leonardo, estoy estudiando ingeniería biomédica y actualmente estoy en el 4to ciclo de la carrera. Espero llevarme una experiencia enriquecedora con este proyecto. </h4>
+> <p align="justify"> Tengo 18 años y voy en cuarto ciclo de Ingeniería Biomédica. Elegí esta carrera por el amplio campo laboral que existe y porque combina las herramientas tecnologicas con la posibilidad de aportar a la salud de las personas. </h4>
 > <h4> Rol en el equipo</h4>
-> <p align="justify"> Como cordinador general, mi rol consiste en dirigir, ayudar y supervisar que cada área, tarea y proceso se cumpla de manera satisfactoria en orden de llevar a cabo el proyecto de manera eficiente. Como tal, debo estar preparado para resolver problemas, asegurar la comunicación y optimizar recursos. </p>
+> <p align="justify">  Me encargare del diseño 3D de nuestro prototipo mediante el uso de diferentes programas como Autodesk Inventor o Ultimaker Cura. </p>
 
 <h3> Matias Ore Gomez (Manufactura digital) </h3>
 
