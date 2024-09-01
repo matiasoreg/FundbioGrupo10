@@ -28,7 +28,7 @@ Las principales contribuciones del proyecto son las siguientes:
 ### Funcionales: ¿Qué debe hacer nuestro proyecto?
 [![FUNCIONAL.jpg](https://i.postimg.cc/XNkY8tcD/FUNCIONAL.jpg)](https://postimg.cc/yWWK6QGF) [![Nofuncional.jpg](https://i.postimg.cc/7PgD9g9P/Nofuncional.jpg)](https://postimg.cc/5jNZNQDD)
 ### No funcionales: ¿Qué propiedades debe tener nuestro proyecto?
-[![NOFUNCIONAL.jpg](https://i.postimg.cc/XYtMg4DB/no-Funcionales.png)
+![NOFUNCIONAL.jpg](https://i.postimg.cc/XYtMg4DB/no-Funcionales.png)
 # Propuesta de solución
 Desarrollar un microscopio portátil con un software automatizado integrado que permita la diferenciación de los tipos de Plasmodium, asegurando así una alerta temprana de la presecencia de los distintos tipos malaria en áreas con recursos limitados y escasez de personal especializado en laboratorios médicos.
 
