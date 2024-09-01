@@ -25,7 +25,9 @@ Las principales contribuciones del proyecto son las siguientes:
 |[![patente2.jpg](https://i.postimg.cc/j5k6GXWn/patente2.jpg)](https://postimg.cc/ygcSR0y7) | Metodología de entrenamiento de redes neuronales convolucionales utilizando la adquisición de imágenes de microscopio asistida por computadora y la preclasificación de imágenes de entrenamiento para objetos biológicos de interés. Los métodos combinan el uso de una plataforma de escaneo automatizado, análisis de imágenes en tiempo real paralelo al proceso de escaneo y una interfaz de usuario para revisar la preclasificación realizada por el software. [6]|
 | [![Patente3-1.jpg](https://i.postimg.cc/CxcKccrj/Patente3-1.jpg)](https://postimg.cc/bZ28J9hJ) [![Patente3-2.jpg](https://i.postimg.cc/fyYL5Z1L/Patente3-2.jpg)](https://postimg.cc/SYNkx0SF) | Método de captura de imágenes que se procesa con un algoritmo de aprendizaje automático especializado en identificar rasgos fenotípicos celulares relacionados con los rasgos genéticos, epigenéticos o genómicos de interés. El algoritmo se entrena utilizando un conjunto de datos de entrenamiento, valga la redundancia, que comprende datos de imágenes celulares y datos de secuenciación de ácidos nucleicos. [7]|
 # Lista de requerimentos
+### Funcionales: ¿Qué debe hacer nuestro proyecto?
 [![FUNCIONAL.jpg](https://i.postimg.cc/XNkY8tcD/FUNCIONAL.jpg)](https://postimg.cc/yWWK6QGF) [![Nofuncional.jpg](https://i.postimg.cc/7PgD9g9P/Nofuncional.jpg)](https://postimg.cc/5jNZNQDD)
+### No funcionales: ¿Qué propiedades debe tener nuestro proyecto?
 # Propuesta de solución
 Desarrollar un microscopio portátil con un software automatizado integrado que permita la diferenciación de los tipos de Plasmodium, asegurando así una alerta temprana de la presecencia de los distintos tipos malaria en áreas con recursos limitados y escasez de personal especializado en laboratorios médicos.
 
