@@ -1,24 +1,51 @@
 # Estado del arte
-### Modelo interregional de Asia
-En regiones como Asia y África, donde la validación de un algoritmo capaz de detectar automáticamente los parásitos de la malaria y contar con precisión los leucocitos en la muestra de de gota gruesa es sumamente necesario. El proyecto citado se enfoca en la detección de la malaria en entornos con recursos limitados, mediante la creación de un microscopio portátil y un teléfono inteligente capaces de producir solo imágenes de baja calidad. Este método puede abordar la escasez de personal y equipos médicos. Asimismo, el modelo cuenta con el análisis de imágenes de baja calidad, lo cual es crucial para ayudar en los procesos de toma de decisiones en países subdesarrollados con recursos médicos limitados.
+### Tipos de agitadores
+---
 
-Las principales contribuciones del proyecto son las siguientes:
+| Agitador orbital | Agitador vortex | Agitador magnético |
+| ------------ | ------------ |
+| [![agitador_orbital](pic1-1 "agitador_orbital")](https://postimg.cc/d7jKvTrM "agitador_orbital") | [![agitador_vortex](pic1-2 "agitador_vortex")](https://postimg.cc/34xzTf3p "agitador_vortex") | [![agitador_magnetico](pic1-3 "agitador_magnetico")](https://postimg.cc/Sj53BG32 "agitador_magnetico")
+| Es un instrumento usado en laboratorio que consiste en una plataforma amplia donde se pueden colocar varios recipientes con soluciones a mezclar. Estas se aseguran en la plataforma y comienza un movimiento en un patrón orbital, lo cual permite mezclar, homogenizar y agitar las muestras [1]. | Es un agitador hecho para tubos de ensayo, es decir, muestras más pequeñas en las que no se pueda introducir un imán dentro del recipiente debido al tamaño. Para ello, el tubo de ensayo es introducido en la cavidad superior del dispositivo, el cual puede girar en un diámetro aproximado de 4mm a velocidad de hasta 300 rpm. Esto permite el buen mezclado de la muestra contenida en el tubo de ensayo [2]. | Es el agitador más común. Consiste en un dispositivo con un motor que produce un campo magnético giratorio. Al colocar el recipiente encima de la placa del dispositivo, se le añade un imán pequeño el cual girará debido al campo magnético generado por el motor interior. Existen funciones adicionales que las empresas le suelen añadir, tales como que la placa sea calefactora para aumentar la temperatura, control de velocidad, inversión de giro del imán, medidores de temperatura, viscosidad, etc. Otros dispositivos tienen una placa con una superficie más amplia para colocar más recipientes mezclándose a la vez [3]. |
 
-1. Desarrollo de algoritmos generalizados: Cuenta con un algoritmo versátil capaz de detectar parásitos de la malaria y contar glóbulos blancos en distintos conjuntos de datos de muestras de gota gruesa de Asia y África subsahariana.
 
-2. Aborda el problema de las imágenes borrosas resultantes de la interfaz entre la óptica de los teléfonos móviles y los microscopios mediante un algoritmo desarrollado específicamente para esta tarea. Asimismo, el modelo utiliza imágenes de baja calidad de Sudán en África subsahariana, asegurando su aplicabilidad en áreas con recursos limitados.
+### Contexto comercial
+---
+#### IKA™ Paquete de agitador magnético de placa cerámica C-MAG HS 7
+La agitación consiste en un motor imantado que se encuentra en la base del dispositivo, el cual gira y hace que un imán pequeño, el cual se introducirá dentro del líquido, gire a los rpm deseados. Esta medida, al igual que la temperatura, la cual será inducida por la base calefactora de cerámica, y los rpm pueden ser configurados en la interfaz digital del dispositivo. Tanto el pequeño imán que se introducirá al líquido como el termómetro vienen en piezas separadas que se añaden al dispositivo [4].
 
-2. Sistema portátil de detección de malaria: El sistema portátil integra un microscopio con un teléfono inteligente, con una interfaz fácil de usar. Se presenta un modelo de microscopio móvil que incorpora las funcionalidades de los microscopios convencionales, permitiendo un aumento de 1000x.
+##### Especificaciones:
+- Velocidad: De 100 a 1500 rpm
+- Material de placa calefactora: Cerámica
+- Temperatura: 50°C a 500°C
+- Peso: 5kg
 
-3. Evaluación automática de la concentración de parásitos: Se ha creado una interfaz gráfica de usuario (IGU) eficiente y fácil de usar para la detección automática de la malaria, permitiendo a los usuarios remotos crear perfiles personales y cargar resultados de pruebas. El sistema desarrollado evalúa automáticamente la concentración de parásitos de la malaria en frotis de sangre fina y gruesa, mostrándolos en la interfaz. Este sistema agiliza el acceso de los médicos a los indicadores de diagnóstico, reduciendo los costes laborales y facilitando el almacenamiento local de imágenes microscópicas y datos de diagnóstico. En consecuencia, contribuye al establecimiento de una base de datos médica completa de pacientes y conserva valiosos recursos médicos. [4]
+---
+#### Mini agitador magnético HI181K-1
+Los agitadores magnéticos HI181 de la empresa HANNA Instruments ofrecen una versión mucho más compacta, ligera y económica que los agitadores magnético comunes. Las funciones se reducen solo al control de la velocidad de giro manualmente (no digital) y la adición de un electrodo en la parte superior ideal para mediciones electroquímicas que la mezcla requiera. Su composición de plástico durable permite resistir a químicos corrosivos que se pueden derramar en el dispositivo [5].
 
-### Microscopios existentes
-| Microscopio | Descripción |
-|-------------|-------------|
-| UC2 [![UC2.jpg](https://i.postimg.cc/TYQ3Bx6S/UC2.jpg)](https://postimg.cc/MvMwjhXb) | Microscopio óptico digital versátil y fácil de usar, diseñado para aplicaciones educativas y de laboratorio donde se requiere observación de muestras con alta calidad de imagen y la capacidad de documentar. [2]|
-| mesoSPIM [![mesoSPIM.png](https://i.postimg.cc/BQqJszZK/mesoSPIM.png)](https://postimg.cc/9zN6YJ7m) | Utiliza una iluminación selectiva,  es capaz de capturar imágenes tridimensionales de toda la muestra de forma rápida y eficiente.[3] |
-| SimpleZ [![SimpleZ.jpg](https://i.postimg.cc/vZZfKM42/SimpleZ.jpg)](https://postimg.cc/0bhz6Td7) | Basado en el **Estereo Microscopio DZ Stereo Microscope** y cámara digital de Euromex, guarda todas las imagenes un sólo archivo ZIP para poder ser procesadas posteriormente con aplicaciones.[4] |
+##### Especificaciones:
+- Brazo electrodo ajustable de hasta 12mm
+- Cantidad máxima de agitación: 1 L
+- Velocidad: 100 rpm a 1000 rpm
+- Material: Plástico ABS
+- Dimensiones: 137mm (diámetro) x 51mm (altura)
+- Peso: 640g
+
+---
+#### Mini agitador reversible HI302N-1
+Agitador magnético de la empresa HANNA Instruments con una interfaz más compacta al agitador común. Permite configurar la velocidad de giro (analógicamente) y cuenta con un temporizador, el fluido girará en una dirección durante ese tiempo y luego invertirá el sentido de rotación durante ese mismo tiempo, así hasta que el dispositivo se apague [6].
+
+#####Especificaciones:
+- Temporizador para inversión de rotación
+- Velocidad: 100 rpm a 1000 rpm
+- Dimensiones: 180 x 180 x 70mm
+- Peso: 1,4 kg
+- Conexión a tierra para seguridad adicional
+
+----
 ### Patentes existentes
+----
+
 | Patente | Descripción |
 |-------------|-------------|
 | [![pantente1-1.jpg](https://i.postimg.cc/DfxwcjWn/pantente1-1.jpg)](https://postimg.cc/6TGKWhLm) [![patente1-2.jpg](https://i.postimg.cc/tRkYMRc0/patente1-2.jpg)](https://postimg.cc/K4KGKbFQ) |Metodología para entrenar un algoritmo para clasificar o detectar partículas o materiales en imágenes de microscopía. Un método incluye recibir una pluralidad de imágenes de microscopía de una muestra y una clasificación para la muestra. El método incluye entrenar un modelo o algoritmo de aprendizaje automático utilizando la pluralidad de imágenes, donde la primera imagen y la segunda imagen se proporcionan con una o más etiquetas que indican la clasificación. [5]|
