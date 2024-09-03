@@ -12,7 +12,7 @@
 ---
 ### IKA™ Paquete de agitador magnético de placa cerámica C-MAG HS 7
 
-<p align="center" ><img src="https://i.postimg.cc/85z8rsRC/agi1.jpg " style="width: 150px"></p>
+<p align="center" ><img src="https://i.postimg.cc/85z8rsRC/agi1.jpg " style="width: 200px"></p>
 
 La agitación consiste en un motor imantado que se encuentra en la base del dispositivo, el cual gira y hace que un imán pequeño, el cual se introducirá dentro del líquido, gire a los rpm deseados. Esta medida, al igual que la temperatura, la cual será inducida por la base calefactora de cerámica, y los rpm pueden ser configurados en la interfaz digital del dispositivo. Tanto el pequeño imán que se introducirá al líquido como el termómetro vienen en piezas separadas que se añaden al dispositivo [1].
 
@@ -25,7 +25,7 @@ La agitación consiste en un motor imantado que se encuentra en la base del disp
 ---
 ### Mini agitador magnético HI181K-1
 
-<p align="center" ><img src="https://i.postimg.cc/Px3gbhyQ/agi2.jpg " style="width: 150px"></p>
+<p align="center" ><img src="https://i.postimg.cc/Px3gbhyQ/agi2.jpg " style="width: 200px"></p>
 
 Los agitadores magnéticos HI181 de la empresa HANNA Instruments ofrecen una versión mucho más compacta, ligera y económica que los agitadores magnético comunes. Las funciones se reducen solo al control de la velocidad de giro manualmente (no digital) y la adición de un electrodo en la parte superior ideal para mediciones electroquímicas que la mezcla requiera. Su composición de plástico durable permite resistir a químicos corrosivos que se pueden derramar en el dispositivo [2].
 
@@ -40,7 +40,7 @@ Los agitadores magnéticos HI181 de la empresa HANNA Instruments ofrecen una ver
 ---
 ### Mini agitador reversible HI302N-1
 
-<p align="center" ><img src="https://i.postimg.cc/prmgq71b/agi3.jpg " style="width: 150px"></p>
+<p align="center" ><img src="https://i.postimg.cc/prmgq71b/agi3.jpg " style="width: 200px"></p>
 
 
 Agitador magnético de la empresa HANNA Instruments con una interfaz más compacta al agitador común. Permite configurar la velocidad de giro (analógicamente) y cuenta con un temporizador, el fluido girará en una dirección durante ese tiempo y luego invertirá el sentido de rotación durante ese mismo tiempo, así hasta que el dispositivo se apague [3].
