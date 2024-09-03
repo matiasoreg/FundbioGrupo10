@@ -1,7 +1,7 @@
 # Introducción
 ## Definición del término "Open Hardware"
 
-El Open Hardware se refiere al hardware cuyo diseño y documentación están disponibles públicamente para que cualquiera pueda estudiarlo, modificarlo y redistribuirlo. Esto incluye esquemas eléctricos, planos de diseño y listas de materiales, junto con licencias que permiten la modificación y redistribución sin restricciones excesivas, promoviendo la transparencia y la colaboración de cualquier persona. [1]
+El Open Hardware se refiere al hardware cuyo diseño y documentación están disponibles públicamente para que cualquiera pueda estudiarlo, modificarlo y redistribuirlo. Esto incluye esquemas eléctricos, planos de diseño y listas de materiales, junto con licencias que permiten la modificación y redistribución sin restricciones excesivas, promoviendo la transparencia y la colaboración de cualquier persona [1].
 
 Ejemplos prominentes incluyen plataformas como Arduino y RepRap, que facilitan y promueven la innovación y el aprendizaje práctico en ingeniería y diseño. Este enfoque no solo reduce costos y da una mejor accesibilidad, sino que también fomenta la colaboración comunitaria y la creación de nuevas versiones y mejoras.
 
@@ -11,13 +11,13 @@ Recursos clave como la Open Source Hardware Association (OSHWA) y documentos com
 
 La preparación consistente y segura de mezclas médicas es un desafío crítico en la industria farmacéutica y en entornos clínicos. Cualquier variación en la composición o en la homogeneidad de las mezclas puede afectar negativamente la dosificación y, por ende, la salud del paciente. En este contexto, el uso de dispositivos de mezcla para el laboratorio se vuelve fundamental. Uno de los más utilizados es el agitador magnético. Este dispositivo asegura una mezcla uniforme y controlada de los ingredientes, reduciendo el riesgo de errores humanos y mejorando la calidad del producto final. Su capacidad para mantener condiciones estables durante la preparación de soluciones, suspensiones y emulsiones es crucial para cumplir con los estrictos estándares de calidad en la creación de medicamentos, asegurando así tratamientos más seguros y efectivos para los pacientes, por lo tanto:
 
-* Un agitador magnético puede ser crucial para la producción local de medicamentos, permitiendo la autosuficiencia y el desarrollo económico local. Esto facilita la producción de medicamentos básicos en zonas alejadas del país, donde la industria farmacéutica no está tan presente y/o desarrollada correctamente. [2]
+* Un agitador magnético puede ser crucial para la producción local de medicamentos, permitiendo la autosuficiencia y el desarrollo económico local. Esto facilita la producción de medicamentos básicos en zonas alejadas del país, donde la industria farmacéutica no está tan presente y/o desarrollada correctamente [2].
 
-* El agitador magnético de laboratorio es fundamental en aplicaciones médicas para la creación de medicamentos, ya que permite mezclar de manera uniforme y precisa soluciones químicas y biológicas, asegurando la homogeneidad de los compuestos activos. Esto es crucial en la producción de medicamentos biológicos, como vacunas y proteínas terapéuticas, donde la consistencia en las mezclas es esencial para garantizar la eficacia y seguridad del producto final. Además, su capacidad para mantener condiciones controladas durante procesos de síntesis y cultivo celular contribuye al desarrollo de tratamientos innovadores y personalizados. [3]
+* El agitador magnético de laboratorio es fundamental en aplicaciones médicas para la creación de medicamentos, ya que permite mezclar de manera uniforme y precisa soluciones químicas y biológicas, asegurando la homogeneidad de los compuestos activos. Esto es crucial en la producción de medicamentos biológicos, como vacunas y proteínas terapéuticas, donde la consistencia en las mezclas es esencial para garantizar la eficacia y seguridad del producto final. Además, su capacidad para mantener condiciones controladas durante procesos de síntesis y cultivo celular contribuye al desarrollo de tratamientos innovadores y personalizados [3].
 
 ## Contexto clínico
 
-En el ámbito clínico, los dispositivos de mezclado, tales como el agitador magnético de laboratorio, se vuelven herramientas esenciales en varias fases del desarrollo y producción de medicamentos. Su utilidad se extiende a diversas áreas además de la medicina, también se utiliza para el cultivo de células para terapias biológicas y la preparación de soluciones con fines didácticos o experimentales. [4]
+En el ámbito clínico, los dispositivos de mezclado, tales como el agitador magnético de laboratorio, se vuelven herramientas esenciales en varias fases del desarrollo y producción de medicamentos. Su utilidad se extiende a diversas áreas además de la medicina, también se utiliza para el cultivo de células para terapias biológicas y la preparación de soluciones con fines didácticos o experimentales [4].
 
 ### Sobre la formulación de medicamentos
 
