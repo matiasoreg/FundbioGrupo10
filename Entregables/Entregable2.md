@@ -4,7 +4,7 @@
 
 | Agitador orbital | Agitador vortex | Agitador magnético |
 | ------------ | ------------ | ------------- |
-| a | b | c |
+| [![agitador_orbital](pic1-1 "agitador_orbital")](https://postimg.cc/d7jKvTrM "agitador_orbital") | [![agitador_vortex](pic1-2 "agitador_vortex")](https://postimg.cc/34xzTf3p "agitador_vortex") | [![agitador_magnetico](pic1-3 "agitador_magnetico")](https://postimg.cc/Sj53BG32 "agitador_magnetico") |
 |Es un instrumento usado en laboratorio que consiste en una plataforma amplia donde se pueden colocar varios recipientes con soluciones a mezclar. Estas se aseguran en la plataforma y comienza un movimiento en un patrón orbital, lo cual permite mezclar, homogenizar y agitar las muestras [1]. | Es un agitador hecho para tubos de ensayo, es decir, muestras más pequeñas en las que no se pueda introducir un imán dentro del recipiente debido al tamaño. Para ello, el tubo de ensayo es introducido en la cavidad superior del dispositivo, el cual puede girar en un diámetro aproximado de 4mm a velocidad de hasta 300 rpm. Esto permite el buen mezclado de la muestra contenida en el tubo de ensayo [2]. | Es el agitador más común. Consiste en un dispositivo con un motor que produce un campo magnético giratorio. Al colocar el recipiente encima de la placa del dispositivo, se le añade un imán pequeño el cual girará debido al campo magnético generado por el motor interior. Existen funciones adicionales que las empresas le suelen añadir, tales como que la placa sea calefactora para aumentar la temperatura, control de velocidad, inversión de giro del imán, medidores de temperatura, viscosidad, etc. Otros dispositivos tienen una placa con una superficie más amplia para colocar más recipientes mezclándose a la vez [3]. |
 
 
@@ -35,7 +35,7 @@ Los agitadores magnéticos HI181 de la empresa HANNA Instruments ofrecen una ver
 ### Mini agitador reversible HI302N-1
 Agitador magnético de la empresa HANNA Instruments con una interfaz más compacta al agitador común. Permite configurar la velocidad de giro (analógicamente) y cuenta con un temporizador, el fluido girará en una dirección durante ese tiempo y luego invertirá el sentido de rotación durante ese mismo tiempo, así hasta que el dispositivo se apague [6].
 
-####Especificaciones:
+#### Especificaciones:
 - Temporizador para inversión de rotación
 - Velocidad: 100 rpm a 1000 rpm
 - Dimensiones: 180 x 180 x 70mm
