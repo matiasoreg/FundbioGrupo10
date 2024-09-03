@@ -63,7 +63,7 @@ Agitador magnético de la empresa HANNA Instruments con una interfaz más compac
 | [![Patente3-1.jpg](https://i.postimg.cc/CxcKccrj/Patente3-1.jpg)](https://postimg.cc/bZ28J9hJ) [![Patente3-2.jpg](https://i.postimg.cc/fyYL5Z1L/Patente3-2.jpg)](https://postimg.cc/SYNkx0SF) | Método de captura de imágenes que se procesa con un algoritmo de aprendizaje automático especializado en identificar rasgos fenotípicos celulares relacionados con los rasgos genéticos, epigenéticos o genómicos de interés. El algoritmo se entrena utilizando un conjunto de datos de entrenamiento, valga la redundancia, que comprende datos de imágenes celulares y datos de secuenciación de ácidos nucleicos. [7]|
 # Lista de requerimentos
 ### Funcionales: ¿Qué debe hacer nuestro proyecto?
-![FUNCIONAL.jpg](https://i.postimg.cc/7h3skMFF/aaaa.png)
+![FUNCIONAL.jpg](https://i.postimg.cc/jqHZCc19/aaaaaaaaaaaaaaa.png)
 ### No funcionales: ¿Qué propiedades debe tener nuestro proyecto?
 ![NOFUNCIONAL.jpg](https://i.postimg.cc/XYtMg4DB/no-Funcionales.png)
 # Propuesta de solución
