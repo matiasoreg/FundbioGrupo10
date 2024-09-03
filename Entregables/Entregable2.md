@@ -67,7 +67,7 @@ Agitador magnético de la empresa HANNA Instruments con una interfaz más compac
 ### No funcionales: ¿Qué propiedades debe tener nuestro proyecto?
 ![NOFUNCIONAL.jpg](https://i.postimg.cc/XYtMg4DB/no-Funcionales.png)
 # Propuesta de solución
-Desarrollar un microscopio portátil con un software automatizado integrado que permita la diferenciación de los tipos de Plasmodium, asegurando así una alerta temprana de la presecencia de los distintos tipos malaria en áreas con recursos limitados y escasez de personal especializado en laboratorios médicos.
+a
 
 # Referencias bibliográficas
 - [1] https://www.fishersci.es/shop/products/c-mag-hs-7-ceramic-plate-magnetic-stirrer-package/10110900
