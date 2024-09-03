@@ -53,14 +53,47 @@ Agitador magnético de la empresa HANNA Instruments con una interfaz más compac
 - Conexión a tierra para seguridad adicional
 
 ----
-## Patentes existentes
-----
+## Patentes existentes:
+### Definición de los tipos de patentes:
+- **P. de invención:** Protege una invención completamente nueva que implica una solución novedosa a un problema. Se usa para inventos más revolucionarios y complejos. Suelen durar 20 años, dependiendo del país en donde se presenta. 
+- **P. de modelo de utilidad:** Implican mejoras en productos ya existentes. No son tan novedosas como las de invención, pero aun así son útiles. Suelen durar 10 años, dependiendo nuevamente de donde se presente.
+---
+### Patente de invención 1: ES2873516 - "Dispositivos y métodos para la administración y mezcla de medicamentos, y entrenamiento de las técnicas adecuadas para ello":
 
-| Patente | Descripción |
-|-------------|-------------|
-| [![pantente1-1.jpg](https://i.postimg.cc/DfxwcjWn/pantente1-1.jpg)](https://postimg.cc/6TGKWhLm) [![patente1-2.jpg](https://i.postimg.cc/tRkYMRc0/patente1-2.jpg)](https://postimg.cc/K4KGKbFQ) |Metodología para entrenar un algoritmo para clasificar o detectar partículas o materiales en imágenes de microscopía. Un método incluye recibir una pluralidad de imágenes de microscopía de una muestra y una clasificación para la muestra. El método incluye entrenar un modelo o algoritmo de aprendizaje automático utilizando la pluralidad de imágenes, donde la primera imagen y la segunda imagen se proporcionan con una o más etiquetas que indican la clasificación. [5]|
-|[![patente2.jpg](https://i.postimg.cc/j5k6GXWn/patente2.jpg)](https://postimg.cc/ygcSR0y7) | Metodología de entrenamiento de redes neuronales convolucionales utilizando la adquisición de imágenes de microscopio asistida por computadora y la preclasificación de imágenes de entrenamiento para objetos biológicos de interés. Los métodos combinan el uso de una plataforma de escaneo automatizado, análisis de imágenes en tiempo real paralelo al proceso de escaneo y una interfaz de usuario para revisar la preclasificación realizada por el software. [6]|
-| [![Patente3-1.jpg](https://i.postimg.cc/CxcKccrj/Patente3-1.jpg)](https://postimg.cc/bZ28J9hJ) [![Patente3-2.jpg](https://i.postimg.cc/fyYL5Z1L/Patente3-2.jpg)](https://postimg.cc/SYNkx0SF) | Método de captura de imágenes que se procesa con un algoritmo de aprendizaje automático especializado en identificar rasgos fenotípicos celulares relacionados con los rasgos genéticos, epigenéticos o genómicos de interés. El algoritmo se entrena utilizando un conjunto de datos de entrenamiento, valga la redundancia, que comprende datos de imágenes celulares y datos de secuenciación de ácidos nucleicos. [7]|
+<p align="center" ><img src="https://i.postimg.cc/prmgq71b/agi3.jpg " style="width: 200px"></p>
+
+#### Resumen: 
+Un dispositivo (200) para entrenar o ayudar a los usuarios en una mezcla adecuada de componentes farmacéuticos, comprendiendo el dispositivo: una carcasa (202) que se extiende a lo largo de un eje longitudinal y que comprende un eje longitudinal principal; un microcontrolador (154) dispuesto en la carcasa; y un dispositivo de detección de movimiento/orientación (150) dispuesto en la carcasa y conectado eléctricamente al microcontrolador de modo que el microcontrolador esté configurado para detectar un movimiento de sacudida de la carcasa, en donde: la carcasa está adaptada para recibir y encerrar en una caja un dispositivo de administración de medicamentos (117) que tiene un eje longitudinal principal, y además para alinear su eje longitudinal principal a lo largo del eje longitudinal principal del dispositivo de administración de medicamentos separado, y en donde el dispositivo de administración de medicamentos separado es una jeringa que el usuario puede accionar manualmente presionando un émbolo (105), el dispositivo comprende además un bloqueo de jeringaconfigurado para detectar la presencia de la jeringa dentro del estuche y bloquear el estuche en un estado cerrado; y el bloqueo de la jeringa está configurado además para desbloquear la carcasa únicamente cuando se ha aplicado un movimiento de agitación suficiente a la jeringa [4]. 
+
+#### Especificaciones: 
+- Fecha de solicitud: 20/06/2016
+- Fecha de publicación: 03/11/2021
+- País de procedencia: España
+  
+---
+### Patente de invención 2: US6269971B1 - "Method and apparatus for dosing a medical preparation":
+
+<p align="center" ><img src="https://i.postimg.cc/VNsPCbZZ/US-6269971-B1.png" style="width: 200px"></p>
+
+#### Resumen: 
+Esta patente describe un método y un aparato diseñados para dosificar una preparación médica de manera precisa y segura, enfocándose en mejorar la exactitud de las dosis administradas en entornos médicos, para el funcionamiento, un medicamento se administra en forma de varias unidades pequeñas, o dosis parciales, cada una de las cuales contiene una cantidad específica e igual de la sustancia activa. Se extrae un número de estas unidades que equivale a una dosis total predeterminada de la sustancia activa y se dispensan al consumidor. El dispositivo diseñado para este proceso incluye mecanismos para contar y dispensar el número adecuado de unidades, o dosis parciales, del medicamento que sumen la cantidad exacta de la dosis total predeterminada, y para transportar estas unidades a un dispensador que las entregue al consumidor [5].
+
+#### Especificaciones: 
+- Fecha de solicitud: 1999-11-30
+- Fecha de publicación: 2001-08-07
+- País de procedencia: Estados Unidos
+
+---
+### Patente de modelo de utilidad: ES1061732 - "DISPOSITIVO ANTIDESLIZANTE PARA AGITADORES MAGNÉTICOS DE MATRACES EN LABORATORIOS Y LUGARES SIMILARES":
+
+#### Resumen: 
+Dispositivo antideslizante para agitadores magnéticos de matraces en laboratorios y lugares similares, y en las que los líquidos dispuestos adecuadamente en los correspondientes matraces son agitados, según las exigencias del tratamiento a que son sometidos para investigación o preparación, que se caracteriza por el hecho de consistir en una placa-asiento preferentemente circular (1), cuya cara superior (2) presenta su superficie rugosa y antideslizante, mientras que su cara inferior (3) es autoadhesiva, de modo, que dicha placa-asiento (1) se adherirá sobre la cara superior del cuerpo (6) del agitador, permitiendo así el posicionamiento del matraz (4), con el líquido o los líquidos (5) en su interior, sobre la cara antideslizante de la placa-asiento (1), lo que impedirá el desplazamiento o deslizamiento lateral de dicho matraz (4) que podría ser provocado por la fuerza cinética originada en el seno del propio líquido o mezcla (5). 2. Dispositivo antideslizante para agitadores magnéticosde matraces en laboratorios y lugares similares, según la reivindicación anterior, los cuales provocan la agitación del líquido o líquidos (5) contenido en el matraz (4) por la acción electromagnética del mecanismo (7) sobre un imán encapsulado (9), previamente introducido en el seno del líquido, que se caracteriza porque la placa-asiento (1) que constituye dicho dispositivo va adherido sobre la cara superior del cuerpo (6) del agitador, concretamente sobre la zona de acción del mecanismo electromagnético (7), por lo que dicha placa-asiento (1) así como el adhesivo que figura en su cara inferior, estará elaborado con materiales que permitan el paso del campo magnético generado en el agitador [6]. 
+
+#### Especificaciones: 
+- Fecha de solicitud: 15/12/2005
+- Fecha de publicación: 16/03/2006
+- País de procedencia: España
+---
 # Lista de requerimentos
 ### Funcionales: ¿Qué debe hacer nuestro proyecto?
 ![FUNCIONAL.jpg](https://i.postimg.cc/jqHZCc19/aaaaaaaaaaaaaaa.png)
@@ -73,4 +106,6 @@ a
 - [1] https://www.fishersci.es/shop/products/c-mag-hs-7-ceramic-plate-magnetic-stirrer-package/10110900
 - [2] https://hannainst.com.pe/productos/accesorios/mini-agitador-magnetico-compacto-con-soporte-de-electrodo-color-anaranjado-115v/
 - [3] https://hannainst.com.pe/productos/accesorios/mini-agitador-reversible-con-cubierta-de-acero-inoxidable-2-5-l-con-alimentacion-de-110-volts/
-- 
+- [4] I. Scrimgeour, S. Martin, J. Mclusky, J. Glencross, B. Hutton, N. Foley, P. Krulevitch, J.A. Buron, "Dispositivos y métodos para la administración y mezcla de medicamentos, y entrenamiento de las técnicas adecuadas para ello," ES. 2873516, Nov. 03, 2021. [Online]. Available: https://patentscope.wipo.int/search/es/detail.jsf?docId=ES340473967
+- [5] C. Nystrom, S.M. Aquilonius, "Method and apparatus for dosing a medical preparation," U.S. Patent 6 269 971 B1, Aug. 7, 2001. [Online]. Available: https://worldwide.espacenet.com/patent/search?q=pn%3DUS6269971B1
+- [6] E. Bonet, "DISPOSITIVO ANTIDESLIZANTE PARA AGITADORES MAGNETICOS DE MATRACES EN LABORATORIOS Y LUGARES SIMILARES," ES. Patent 1061732, Mar. 16, 2006. [Online]. Available: https://patentscope.wipo.int/search/es/detail.jsf?docId=ES5823486
