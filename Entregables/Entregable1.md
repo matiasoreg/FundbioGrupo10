@@ -72,4 +72,5 @@ Herranz A, Pernia S. Centralized drug compounding units: an essential driver of 
 Martínez Rojas, S. P., Ibatá Bernal, L. M., Taborda Restrepo, A., Ariza, J. G., & Bonilla Arteaga, K. (2022). Premezclados como alternativa para el uso seguro de medicamentos intravenosos en escenarios de atención en salud. Revista Colombiana de Ciencias Químico-Farmacéuticas, 51(3), 1065-1082.
 
 [7]
-Cherkasov, N., Baldwin, S., Gibbons, G. J., & Isakov, D. (2020). Monitoring Chemistry In Situ with a Smart Stirrer: A Magnetic Stirrer Bar with an Integrated Process Monitoring System. ACS Sensors, 5(8), 2497-2502. https://doi.org/10.1021/acssensors.0c00720
+N. Cherkasov, S. Baldwin, G. J. Gibbons, and D. Isakov, “Monitoring Chemistry In Situ with a Smart Stirrer: A Magnetic Stirrer Bar with an Integrated Process Monitoring System,” ACS sensors, vol. 5, no. 8, pp. 2497–2502, Aug. 2020, doi: https://doi.org/10.1021/acssensors.0c00720.
+‌
