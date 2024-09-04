@@ -65,13 +65,11 @@ Fernando, L. Z. L., Enrique, C. R. C., Enrique, V. H. J., Ander, M. P. J., Leoni
 [4]
 Seotechwriter, “The Function of Magnetic Stirrers in Laboratories,” Wiltronics, May 16, 2022. https://www.wiltronics.com.au/wiltronics-knowledge-base/magnetic-stirrers/.
 
-‌
-[5]
+‌[5]
 A. Herranz and S. Pernia, “Unidades de preparación centralizada de medicamentos: práctica esencial para la seguridad del paciente,” FARMACIA HOSPITALARIA, vol. 45, no. 04, pp. 163–164, Jun. 2021, doi: https://doi.org/10.7399/fh.11757.
 
 [6]
 S. P. Martínez Rojas, L. M. Ibatá Bernal, A. Taborda Restrepo,  J. G. Ariza, & K. Bonilla Arteaga, “Premezclados como alternativa para el uso seguro de medicamentos intravenosos en escenarios de atención en salud,” Revista Colombiana de Ciencias Químico - Farmacéuticas, vol. 51, no. 3, Mar. 2023, doi: https://doi.org/10.15446/rcciquifa.v51n3.100189.
 
-‌
-[7]
+‌[7]
 N. Cherkasov, S. Baldwin, G. J. Gibbons, & D. Isakov, “Monitoring Chemistry In Situ with a Smart Stirrer: A Magnetic Stirrer Bar with an Integrated Process Monitoring System,” ACS sensors, vol. 5, no. 8, pp. 2497–2502, Aug. 2020, doi: https://doi.org/10.1021/acssensors.0c00720.
