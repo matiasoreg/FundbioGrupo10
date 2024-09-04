@@ -100,7 +100,7 @@ Dispositivo antideslizante para agitadores magnéticos de matraces en laboratori
 ### No funcionales: ¿Qué propiedades debe tener nuestro proyecto?
 ![NOFUNCIONAL.jpg](https://i.postimg.cc/XYtMg4DB/no-Funcionales.png)
 # Propuesta de solución
-a
+Desarrollar un agitador magnetico de bajo costo con el proposito de ayudar a mezclar medicamentos en hospitales, como también a mezclar muestras en un laboratorio, usando software que regule las RPM a las que se agita la muestra, y hardware que sea de bajo costo. Esto con el proposito de asegurar una buena mezcla y ahorrar al investigador o enfermero la tarea de mezclar sustancias manualmente.
 
 # Referencias bibliográficas
 - [1] https://www.fishersci.es/shop/products/c-mag-hs-7-ceramic-plate-magnetic-stirrer-package/10110900
