@@ -103,9 +103,9 @@ Dispositivo antideslizante para agitadores magnéticos de matraces en laboratori
 Desarrollar un agitador magnetico de bajo costo con el proposito de ayudar a mezclar medicamentos en hospitales, como también a mezclar muestras en un laboratorio, usando software que regule las RPM a las que se agita la muestra, y hardware que sea de bajo costo. Esto con el proposito de asegurar una buena mezcla y ahorrar al investigador o enfermero la tarea de mezclar sustancias manualmente.
 
 # Referencias bibliográficas
-- [1] https://www.fishersci.es/shop/products/c-mag-hs-7-ceramic-plate-magnetic-stirrer-package/10110900
-- [2] https://hannainst.com.pe/productos/accesorios/mini-agitador-magnetico-compacto-con-soporte-de-electrodo-color-anaranjado-115v/
-- [3] https://hannainst.com.pe/productos/accesorios/mini-agitador-reversible-con-cubierta-de-acero-inoxidable-2-5-l-con-alimentacion-de-110-volts/
+- [1] IKA™ Paquete de agitador magnético de placa cerámica C-MAG HS 7 -. (s. f.). https://www.fishersci.es/shop/products/c-mag-hs-7-ceramic-plate-magnetic-stirrer-package/10110900
+- [2] Mini agitador magnético compacto con soporte de electrodo, color anaranjado (115V) » HANNA® instruments Perú. (2024, 19 mayo). HANNA® Instruments Perú. https://hannainst.com.pe/productos/accesorios/mini-agitador-magnetico-compacto-con-soporte-de-electrodo-color-anaranjado-115v/
+- [3] Mini agitador reversible con cubierta de acero inoxidable (2.5 L.) con alimentación de 110 volts » HANNA® instruments Perú. (2024, 22 mayo). HANNA® Instruments Perú. https://hannainst.com.pe/productos/accesorios/mini-agitador-reversible-con-cubierta-de-acero-inoxidable-2-5-l-con-alimentacion-de-110-volts/
 - [4] I. Scrimgeour, S. Martin, J. Mclusky, J. Glencross, B. Hutton, N. Foley, P. Krulevitch, J.A. Buron, "Dispositivos y métodos para la administración y mezcla de medicamentos, y entrenamiento de las técnicas adecuadas para ello," ES. 2873516, Nov. 03, 2021. [Online]. Available: https://patentscope.wipo.int/search/es/detail.jsf?docId=ES340473967
 - [5] C. Nystrom, S.M. Aquilonius, "Method and apparatus for dosing a medical preparation," U.S. Patent 6 269 971 B1, Aug. 7, 2001. [Online]. Available: https://worldwide.espacenet.com/patent/search?q=pn%3DUS6269971B1
 - [6] E. Bonet, "DISPOSITIVO ANTIDESLIZANTE PARA AGITADORES MAGNETICOS DE MATRACES EN LABORATORIOS Y LUGARES SIMILARES," ES. Patent 1061732, Mar. 16, 2006. [Online]. Available: https://patentscope.wipo.int/search/es/detail.jsf?docId=ES5823486
