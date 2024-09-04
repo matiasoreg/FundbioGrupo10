@@ -25,6 +25,13 @@ En el ámbito clínico, los dispositivos de mezclado, tales como el agitador mag
 
 * **Creación de Suspensiones y Emulsiones:** Para medicamentos que no se disuelven fácilmente en agua, como ciertos antibióticos y hormonas, el agitador magnético permite la preparación de suspensiones y emulsiones estables, garantizando que el medicamento tenga la concentración adecuada y una distribución uniforme en el frasco.
 
+### Características del agitador magnético
+
+Es un dispositivo de laboratorio que se encarga de realizar mezclas homogéneas de manera estable [5]. 
+- Mezcla soluciones que tenga una viscosidad de 100mPa
+- Puede soportar hasta 4L
+- Es recomendable que su sistema permita efectuar 400-800 rpm
+
 ## Problemática
 Preparación consistente y segura de mezclas médicas.
 
@@ -44,9 +51,9 @@ Preparación consistente y segura de mezclas médicas.
 
 |  Título del artículo | Autor(es) | Resumen |
 | -------------------- | ---------- | -----------|
-| Unidades de preparación centralizada de medicamentos: práctica esencial para la seguridad del paciente | Herranz y Pernia (2021) [5] | En el artículo científico, se analiza la importancia de la preparación de medicamentos en los Servicios de Farmacia Hospitalaria. Esta idea nace durante la pandemia de COVID-19 en la cual, por la coyuntura, se crearon tecnologías para la preparación de medicamentos necesarios, reduciendo los errores que un humano podría cometer. Las tecnologías usadas fueron: robots, bombas de dosificación y sistemas de código de barras. A pesar de los diferentes inventos y avances, sigue existiendo una brecha entre la implementación de las nuevas tecnologías y que tan disponibles/accesibles son. Por ende, el artículo llama a líderes capacitados para crear una nueva cultura donde se implementen estos nuevos elementos de seguridad para mejorar los procesos clínicos. |
-| Premezclados como alternativa para el uso seguro de medicamentos intravenosos en escenarios de atención en salud | Matínez et al. (2022) [6] | El artículo de revisión plantea la posibilidad de usar premezclados de medicamentos como una alternativa de mejorar la calidad del tratamiento y de la atención que los pacientes reciben, específicamente para la terapia intravenosa. Se resalta el problema existente de la alta frecuencia de errores de medicación ya sea por dosis, etiquetados o proporciones incorrectas. Dicho problema genera altos índices de pérdidas y gastos innecesarios que podrían ahorrarse si se hicieran premezclados de dichos medicamentos. Esta alternativa, se estima, puede reducir los riesgos de contaminación, menor incidencia de complicaciones relacionadas con la terapia y mejorar la oportunidad de dispensación y optimización del trabajo. Para ello, se busca dar paso a la automatización de estos procesos, reduciendo significativamente la carga de trabajo humano y el tiempo invertido en preparar dichas mezclas. En consecuencia, se necesitarán equipos especializados en preparación y mezclado que garanticen la exactitud, higiene y calidad en la preparación de medicinas. |
-|Monitoring Chemistry In Situ with a Smart Stirrer: A Magnetic Stirrer Bar with an Integrated Process Monitoring System | Cherkasov et al. (2020) [7] | El artículo busca mejorar el dispositivo de agitación magnética usado en laboratorios para la mezcla de sustancias agregándole varios parámetros que considera importantes al momento de efectuar una reacción química. El dispositivo es llamado "Smart Stirrer" (agitador inteligente) y permite controlar parámetros físicos en la reacción tales como temperatura, conductivilidad, espectro visible, velocidad de agitación y viscosidad. Estos datos son llevados inalámbricamente hacia un sistema externo, como una PC o smartphone, para su procesamiento y visualización en gráficos. La ventaja que posee es que gracias a su open-source software (software de código abierto), el usuario puede cambiar la programación de acuerdo a sus necesidades. El agitador inteligente es más barato que uno promedio y se espera que pueda ser útil en las investigaciones que requieran de mezclas exactas y de alto cuidado. |
+| Unidades de preparación centralizada de medicamentos: práctica esencial para la seguridad del paciente | Herranz y Pernia (2021) [6] | En el artículo científico, se analiza la importancia de la preparación de medicamentos en los Servicios de Farmacia Hospitalaria. Esta idea nace durante la pandemia de COVID-19 en la cual, por la coyuntura, se crearon tecnologías para la preparación de medicamentos necesarios, reduciendo los errores que un humano podría cometer. Las tecnologías usadas fueron: robots, bombas de dosificación y sistemas de código de barras. A pesar de los diferentes inventos y avances, sigue existiendo una brecha entre la implementación de las nuevas tecnologías y que tan disponibles/accesibles son. Por ende, el artículo llama a líderes capacitados para crear una nueva cultura donde se implementen estos nuevos elementos de seguridad para mejorar los procesos clínicos. |
+| Premezclados como alternativa para el uso seguro de medicamentos intravenosos en escenarios de atención en salud | Matínez et al. (2022) [7] | El artículo de revisión plantea la posibilidad de usar premezclados de medicamentos como una alternativa de mejorar la calidad del tratamiento y de la atención que los pacientes reciben, específicamente para la terapia intravenosa. Se resalta el problema existente de la alta frecuencia de errores de medicación ya sea por dosis, etiquetados o proporciones incorrectas. Dicho problema genera altos índices de pérdidas y gastos innecesarios que podrían ahorrarse si se hicieran premezclados de dichos medicamentos. Esta alternativa, se estima, puede reducir los riesgos de contaminación, menor incidencia de complicaciones relacionadas con la terapia y mejorar la oportunidad de dispensación y optimización del trabajo. Para ello, se busca dar paso a la automatización de estos procesos, reduciendo significativamente la carga de trabajo humano y el tiempo invertido en preparar dichas mezclas. En consecuencia, se necesitarán equipos especializados en preparación y mezclado que garanticen la exactitud, higiene y calidad en la preparación de medicinas. |
+|Monitoring Chemistry In Situ with a Smart Stirrer: A Magnetic Stirrer Bar with an Integrated Process Monitoring System | Cherkasov et al. (2020) [8] | El artículo busca mejorar el dispositivo de agitación magnética usado en laboratorios para la mezcla de sustancias agregándole varios parámetros que considera importantes al momento de efectuar una reacción química. El dispositivo es llamado "Smart Stirrer" (agitador inteligente) y permite controlar parámetros físicos en la reacción tales como temperatura, conductivilidad, espectro visible, velocidad de agitación y viscosidad. Estos datos son llevados inalámbricamente hacia un sistema externo, como una PC o smartphone, para su procesamiento y visualización en gráficos. La ventaja que posee es que gracias a su open-source software (software de código abierto), el usuario puede cambiar la programación de acuerdo a sus necesidades. El agitador inteligente es más barato que uno promedio y se espera que pueda ser útil en las investigaciones que requieran de mezclas exactas y de alto cuidado. |
 
 ## Propuesta
 
@@ -66,10 +73,13 @@ Fernando, L. Z. L., Enrique, C. R. C., Enrique, V. H. J., Ander, M. P. J., Leoni
 Seotechwriter, “The Function of Magnetic Stirrers in Laboratories,” Wiltronics, May 16, 2022. https://www.wiltronics.com.au/wiltronics-knowledge-base/magnetic-stirrers/.
 
 ‌[5]
+IKA. https://www.ika.com/en/Products-LabEq/Magnetic-Stirrers-pg188/FAQ-cpfaq.html (accessed Sep. 03, 2024).
+
+‌[6]
 A. Herranz and S. Pernia, “Unidades de preparación centralizada de medicamentos: práctica esencial para la seguridad del paciente,” FARMACIA HOSPITALARIA, vol. 45, no. 04, pp. 163–164, Jun. 2021, doi: https://doi.org/10.7399/fh.11757.
 
-[6]
+[7]
 S. P. Martínez Rojas, L. M. Ibatá Bernal, A. Taborda Restrepo,  J. G. Ariza, & K. Bonilla Arteaga, “Premezclados como alternativa para el uso seguro de medicamentos intravenosos en escenarios de atención en salud,” Revista Colombiana de Ciencias Químico - Farmacéuticas, vol. 51, no. 3, Mar. 2023, doi: https://doi.org/10.15446/rcciquifa.v51n3.100189.
 
-‌[7]
+‌[8]
 N. Cherkasov, S. Baldwin, G. J. Gibbons, & D. Isakov, “Monitoring Chemistry In Situ with a Smart Stirrer: A Magnetic Stirrer Bar with an Integrated Process Monitoring System,” ACS sensors, vol. 5, no. 8, pp. 2497–2502, Aug. 2020, doi: https://doi.org/10.1021/acssensors.0c00720.
