@@ -63,7 +63,8 @@ L. P. Fiestas García, “Caracterización de la industria farmacéutica peruana
 Fernando, L. Z. L., Enrique, C. R. C., Enrique, V. H. J., Ander, M. P. J., Leonid, L. G., Roberto, R. L., & Jesús, P. R. (s. f.). Automedicación en cinco provincias de Cajamarca. http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1018-130X2001000400004
 
 [4]
-Seotechwriter, “The Function of Magnetic Stirrers in Laboratories,” Wiltronics, May 16, 2022. https://www.wiltronics.com.au/wiltronics-knowledge-base/magnetic-stirrers/
+Seotechwriter, “The Function of Magnetic Stirrers in Laboratories,” Wiltronics, May 16, 2022. https://www.wiltronics.com.au/wiltronics-knowledge-base/magnetic-stirrers/.
+
 ‌
 [5]
 A. Herranz and S. Pernia, “Unidades de preparación centralizada de medicamentos: práctica esencial para la seguridad del paciente,” FARMACIA HOSPITALARIA, vol. 45, no. 04, pp. 163–164, Jun. 2021, doi: https://doi.org/10.7399/fh.11757.
