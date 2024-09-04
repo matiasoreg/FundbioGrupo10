@@ -19,7 +19,7 @@
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> Como cordinador general, mi rol consiste en dirigir, ayudar y supervisar que cada área, tarea y proceso se cumpla de manera satisfactoria en orden de llevar a cabo el proyecto de manera eficiente. Como tal, debo estar preparado para resolver problemas, asegurar la comunicación y optimizar recursos. </p>
 
-<h3> Gustavo Alonso Maldonado Uriarte (Prototipado Electrónico) </h3>
+<h3> Gustavo Alonso Maldonado Uriarte (Software) </h3>
 
 > <p align="center" ><img src="https://i.postimg.cc/TwxCYWRG/funbio.png" style="width: 150px"></p>
 > <h4> Presentación </h4>
