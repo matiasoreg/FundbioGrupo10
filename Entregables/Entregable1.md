@@ -54,23 +54,22 @@ Diseño y fabricación 3D de un agitador magnético de bajo costo capaz de satis
 
 ## Referencias bibliográficas
 [1] 
-Definition (English). (2024, 25 junio). https://www.oshwa.org/definition/
+Definition (English). Jun. 2024. https://www.oshwa.org/definition/
 
 [2]
-Patricia, F. G. L. (2018). Caracterización de la industria farmacéutica peruana : obstáculos para su crecimiento. https://hdl.handle.net/20.500.12640/1354
+L. P. Fiestas García, “Caracterización de la industria farmacéutica peruana : obstáculos para su crecimiento,” Jul. 2018. https://hdl.handle.net/20.500.12640/1354.
 
 [3]
 Fernando, L. Z. L., Enrique, C. R. C., Enrique, V. H. J., Ander, M. P. J., Leonid, L. G., Roberto, R. L., & Jesús, P. R. (s. f.). Automedicación en cinco provincias de Cajamarca. http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1018-130X2001000400004
 
 [4]
-Seotechwriter. (2024, 27 junio). The Function of Magnetic Stirrers in Laboratories: Types and Uses. Wiltronics. https://www.wiltronics.com.au/wiltronics-knowledge-base/magnetic-stirrers/
-
+Seotechwriter, “The Function of Magnetic Stirrers in Laboratories,” Wiltronics, May 16, 2022. https://www.wiltronics.com.au/wiltronics-knowledge-base/magnetic-stirrers/
+‌
 [5]
-Herranz A, Pernia S. Centralized drug compounding units: an essential driver of patient safety. Farm Hosp. 2021 Jun 30;45(4):163-164. English. doi: 10.7399/fh.11757. PMID: 34218759.
+A. Herranz and S. Pernia, “Unidades de preparación centralizada de medicamentos: práctica esencial para la seguridad del paciente,” FARMACIA HOSPITALARIA, vol. 45, no. 04, pp. 163–164, Jun. 2021, doi: https://doi.org/10.7399/fh.11757.
 
 [6]
-Martínez Rojas, S. P., Ibatá Bernal, L. M., Taborda Restrepo, A., Ariza, J. G., & Bonilla Arteaga, K. (2022). Premezclados como alternativa para el uso seguro de medicamentos intravenosos en escenarios de atención en salud. Revista Colombiana de Ciencias Químico-Farmacéuticas, 51(3), 1065-1082.
-
-[7]
-N. Cherkasov, S. Baldwin, G. J. Gibbons, and D. Isakov, “Monitoring Chemistry In Situ with a Smart Stirrer: A Magnetic Stirrer Bar with an Integrated Process Monitoring System,” ACS sensors, vol. 5, no. 8, pp. 2497–2502, Aug. 2020, doi: https://doi.org/10.1021/acssensors.0c00720.
+S. P. Martínez Rojas, L. M. Ibatá Bernal, A. Taborda Restrepo,  J. G. Ariza, & K. Bonilla Arteaga, “Premezclados como alternativa para el uso seguro de medicamentos intravenosos en escenarios de atención en salud,” Revista Colombiana de Ciencias Químico - Farmacéuticas, vol. 51, no. 3, Mar. 2023, doi: https://doi.org/10.15446/rcciquifa.v51n3.100189.
 ‌
+[7]
+N. Cherkasov, S. Baldwin, G. J. Gibbons, & D. Isakov, “Monitoring Chemistry In Situ with a Smart Stirrer: A Magnetic Stirrer Bar with an Integrated Process Monitoring System,” ACS sensors, vol. 5, no. 8, pp. 2497–2502, Aug. 2020, doi: https://doi.org/10.1021/acssensors.0c00720.
