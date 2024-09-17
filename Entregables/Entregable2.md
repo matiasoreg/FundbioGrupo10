@@ -21,6 +21,7 @@ La agitación consiste en un motor imantado que se encuentra en la base del disp
 - Material de placa calefactora: Cerámica
 - Temperatura: 50°C a 500°C
 - Peso: 5kg
+- Precio: 3142 soles
 
 ---
 ### Mini agitador magnético HI181K-1
@@ -36,6 +37,7 @@ Los agitadores magnéticos HI181 de la empresa HANNA Instruments ofrecen una ver
 - Material: Plástico ABS
 - Dimensiones: 137mm (diámetro) x 51mm (altura)
 - Peso: 640g
+- Precio: 779 soles
 
 ---
 ### Mini agitador reversible HI302N-1
@@ -51,6 +53,7 @@ Agitador magnético de la empresa HANNA Instruments con una interfaz más compac
 - Dimensiones: 180 x 180 x 70mm
 - Peso: 1,4 kg
 - Conexión a tierra para seguridad adicional
+- Precio: 1213 soles
 
 ----
 ## Patentes existentes:
