@@ -27,6 +27,7 @@ La solución propuesta es la creación de un agitador magnético de bajo costo, 
 - Impresión 3D: Se usará materiales como el PLA o ABS, materiales resistentes y económicos, se logrará tener una estructura duradera y estable. El ABS llega a resistir temperaturas de 100 grados, suficiente para el uso de este dispositivo [3].
 - Fuente de poder: El dispositivo funciona girando imanes adheridos al motor, el cual crea un campo magnético que gira el imán dentro de la muestra. Se usará un ventilador de ordenador para ahorrar energía y costos. Así también será posible modificar la velocidad de las rotaciones. Por otro lado, se usarán resistencias calefactoras para aumentar la temperatura de la sustancia [4].
 - Sistema de control: Usando un potenciómetro y distinto software, se puede programar la velocidad y las RPM con la cual gira el imán dependiendo de las necesidades según el volumen y el tipo de líquido que se usa. De una manera similar, se controlará el aumento de temperatura, potenciado por una fuente de batería recargable.
+- Temporizador y notificación: Se configura el tiempo de agitado y al terminar sonará una notificación que advertirá del fin del agitado.
 
 ### Beneficios
 - A parte del beneficio económico para los laboratorios, la visión del prototipo se enfoca en agilizar la tarea de los diferentes profesionales que trabajan ahí, ya que el agitador es un dispositivo automatizado que puede estar trabajando durante largos periodos de tiempo.
