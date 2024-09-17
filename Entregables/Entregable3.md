@@ -24,6 +24,14 @@ El impacto de una preparación inconsistente y poco segura de mezclas médicas e
 # Coherencia
 ## Contexto del Proyecto
 ## Objetivos del Proyecto
+**Objetivo general:** 
+Obtener mezclas farmacéuticas seguras y estables
+
+**Objetivos específicos:**
+- Optimizar tiempos en la mezcla de medicamentos 
+- Estabilizar las reacciones regulando la velocidad de agitación y la temperatura
+- Obtener productos que, en cantidad, se asemejen al valor de rendimiento teórico
+
 ## Justificación del Prototipo
 ## Alineación con el Problema
 
