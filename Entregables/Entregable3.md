@@ -78,10 +78,15 @@ El desarrollo del agitador magnético busca mejorar la eficiencia y seguridad en
 # Referencias
 
 [1] R. P. Nieto Risco y J. E. Oliva Morales, "Prevalencia de intoxicaciones medicamentosas en pacientes atendidos en un hospital de Lambayeque" Tesis de Licenciatura, Univ. Señor de Sipán, Chiclayo, Perú, 2024. [En línea]. Disponible: https://repositorio.uss.edu.pe/bitstream/handle/20.500.12802/12508/Nieto%20Risco%2C%20Roy%20Paul%20-%20Oliva%20Morales%2C%20Jesus%20Elizabeth.pdf?sequence=1&isAllowed=y
+
 [2] A. Herranz and S. Pernia, “Unidades de preparación centralizada de medicamentos: práctica esencial para la seguridad del paciente,” FARMACIA HOSPITALARIA, vol. 45, no. 04, pp. 163–164, Jun. 2021, doi: https://doi.org/10.7399/fh.11757.
+
 [3] Systèmes, D. ¿Qué resistencia pueden tener las piezas 3D? Dassault Systèmes. (2023, 29 marzo). https://www.3ds.com/es/make/solutions/blog/how-strong-can-3d-parts-be
+
 [4] Conoce la importancia de las resistencias calefactoras y sus usos. (s. f.). Resistencias Eléctricas Industriales. https://juliomartineznaya.com/importancia-resistencias-calefactoras-usos/#:~:text=Este%20tipo%20de%20resistencias%20son,se%20desee%20calentar%20el%20contenido
+
 [5] Inc, V. S. IT’S ALL A MATTER OF STIRRING: TIPS AND TRICKS TO CHOOSE THE BEST STIRRERS FOR YOUR LABORATORY. Velp Cientifica. (2022, 26 abril). https://www.velp.com/en-us/its-all-a-matter-of-stirring-tips-and-tricks-to-choose-the-best-stirrers-for-your-laboratory.aspx
+
 [6] Mastering Magnetic Stirrer Techniques: Tips & Tricks for Efficient Mixing. Lab Hot Plates. (2024, 24 enero). https://labhotplates.com/mastering-magnetic-stirrer-techniques-tips-tricks-for-efficient-mixing/
 
 
