@@ -44,7 +44,7 @@ Preparación consistente y segura de mezclas médicas.
 
 ## Diagrama de Ishikawa
 
-[![Soft-Blue-Minimalist-Fishbone-Diagram-Graph.png](https://i.postimg.cc/dVDdH2rV/Soft-Blue-Minimalist-Fishbone-Diagram-Graph.png)
+![Soft-Blue-Minimalist-Fishbone-Diagram-Graph.png](https://i.postimg.cc/dVDdH2rV/Soft-Blue-Minimalist-Fishbone-Diagram-Graph.png)
 
 
 ## Estado del arte - Evidencia científica 
