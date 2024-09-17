@@ -1,6 +1,8 @@
 # Problemática
 ## Contexto:
 En el ámbito de la ingeniería biomédica, la preparación de mezclas médicas es una tarea crucial que involucra la combinación precisa de fármacos, soluciones y otros componentes para el tratamiento de pacientes. Este proceso se realiza en diversos entornos, como hospitales, clínicas y laboratorios, donde se utilizan mezclas para la administración de medicamentos, debido a que según estudios recientes, en el Perú , específicamente en la región de Lambayeque se ha reportado que la prevalencia de intoxicaciones medicamentosas durante un cierto periodo fue de 0.19 por cada 300 personas. [1]
+
+
 Este problema es especialmente relevante en la ingeniería biomédica debido a la necesidad de integrar tecnología avanzada para automatizar y controlar el proceso de preparación. Los avances en dispositivos y sistemas para la preparación de mezclas médicas deben garantizar no solo la precisión en la dosificación, sino también la estandarización y seguridad del proceso, minimizando el riesgo de errores humanos y variaciones en la calidad del producto final.
 
 ## Definición del Problema:
