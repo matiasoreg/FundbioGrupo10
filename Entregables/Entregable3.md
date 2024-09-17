@@ -34,6 +34,7 @@ Obtener mezclas farmacéuticas seguras y estables
 
 ## Justificación del Prototipo
 ## Alineación con el Problema
+De acuerdo con la problemática, la mezcla de medicamentos presenta problemas en su estabilidad de reacción y con la contaminación a la que se encuentra expuesta. Como respuesta a estos problemas, se propone el diseño de un agitador magnético. Este prototipo permitirá al usuario tener control sobre la velocidad de las revoluciones así como sobre la temperatura de la solución. Asimismo, no será necesario usar baquetas u otros objetos de agitación manual, lo cual contribuye a mantener la muestra en un estado puro.
 
 # Resumen
 El problema que identificamos radica en la falta de consistencia y seguridad en la preparación de mezclas médicas, lo cual genera errores en la dosificación y pone en riesgo la salud de los pacientes. Por ello, proponemos el desarrollo de un agitador magnético de bajo costo, que será de utilidad en hospitales y laboratorios del Perú, así como en universidades, donde podrá ser utilizado como una herramienta de enseñanza. 
