@@ -5,7 +5,7 @@ En el ámbito de la ingeniería biomédica, la preparación de mezclas médicas 
 Este problema es especialmente relevante en la ingeniería biomédica debido a la necesidad de integrar tecnología avanzada para automatizar y controlar el proceso de preparación. Los avances en dispositivos y sistemas para la preparación de mezclas médicas deben garantizar no solo la precisión en la dosificación, sino también la estandarización y seguridad del proceso, minimizando el riesgo de errores humanos y variaciones en la calidad del producto final.
 
 ## Definición del Problema:
-El problema específico que se busca resolver es la falta de consistencia y seguridad en la preparación de mezclas médicas. Esto puede manifestarse en errores en las proporciones de los componentes, contaminación cruzada, o variaciones en la concentración de los ingredientes activos. La ausencia de métodos estandarizados y de tecnologías adecuadas para la preparación precisa de estas mezclas puede llevar a resultados inconsistentes y, en consecuencia, a una administración ineficaz o peligrosa de los tratamientos médicos.
+El problema específico que se busca resolver es la falta de consistencia y seguridad en la preparación de mezclas médicas. Esto puede manifestarse en errores en las proporciones de los componentes, contaminación cruzada, o variaciones en la concentración de los ingredientes activos. La ausencia de métodos estandarizados y de tecnologías adecuadas para la preparación precisa de estas mezclas puede llevar a resultados inconsistentes y, en consecuencia, a una administración ineficaz o peligrosa de los tratamientos médicos [2].
 En términos concretos, el problema puede incluir:
 - **Errores en la Dosificación:** Variaciones en la cantidad de fármaco o solvente, que pueden resultar en dosis incorrectas.
 - **Contaminación y Seguridad:** Riesgos de contaminación debido a técnicas de preparación inadecuadas o falta de esterilidad.
@@ -55,4 +55,6 @@ El desarrollo del agitador magnético busca mejorar la eficiencia y seguridad en
 # Referencias
 
 [1] R. P. Nieto Risco y J. E. Oliva Morales, "Prevalencia de intoxicaciones medicamentosas en pacientes atendidos en un hospital de Lambayeque" Tesis de Licenciatura, Univ. Señor de Sipán, Chiclayo, Perú, 2024. [En línea]. Disponible: https://repositorio.uss.edu.pe/bitstream/handle/20.500.12802/12508/Nieto%20Risco%2C%20Roy%20Paul%20-%20Oliva%20Morales%2C%20Jesus%20Elizabeth.pdf?sequence=1&isAllowed=y
+
+[2] A. Herranz and S. Pernia, “Unidades de preparación centralizada de medicamentos: práctica esencial para la seguridad del paciente,” FARMACIA HOSPITALARIA, vol. 45, no. 04, pp. 163–164, Jun. 2021, doi: https://doi.org/10.7399/fh.11757.
 
