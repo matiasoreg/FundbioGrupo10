@@ -22,7 +22,10 @@ El impacto de una preparación inconsistente y poco segura de mezclas médicas e
 # Propuesta de solución
 
 # Coherencia
-
+## Contexto del Proyecto
+## Objetivos del Proyecto
+## Justificación del Prototipo
+## Alineación con el Problema
 
 # Resumen
 El problema que identificamos radica en la falta de consistencia y seguridad en la preparación de mezclas médicas, lo cual genera errores en la dosificación y pone en riesgo la salud de los pacientes. Por ello, proponemos el desarrollo de un agitador magnético de bajo costo, que será de utilidad en hospitales y laboratorios del Perú, así como en universidades, donde podrá ser utilizado como una herramienta de enseñanza. 
