@@ -20,6 +20,28 @@ El impacto de una preparación inconsistente y poco segura de mezclas médicas e
 - **Al Sistema de Salud en General:** La incidencia de errores en la preparación de mezclas médicas puede contribuir a una carga significativa en el sistema de salud, con repercusiones en términos de costos, recursos y calidad del cuidado. Los datos de estudios y reportes sobre incidentes relacionados con la preparación de mezclas médicas muestran que estos errores son una causa importante de eventos adversos en la atención médica, lo que subraya la necesidad de mejorar los sistemas y tecnologías involucradas.
 
 # Propuesta de solución
+### Descripción de la solución
+La solución propuesta es la creación de un agitador magnético de bajo costo, con pantalla LCD para controlar velocidad y temperatura. Esta solución está diseñada y dirigida a hospitales y postas clínicas en zonas de bajos recursos, como universidades de todo el perú para la implementación en laboratorios de enseñanza. Se logrará usando técnicas de impresión 3D y elementos electrónicos de bajo costo con Arduino.
+
+### Características:
+- Impresión 3D: Se usará materiales como el PLA o ABS, materiales resistentes y económicos, se logrará tener una estructura duradera y estable. El ABS llega a resistir temperaturas de 100 grados, suficiente para el uso de este dispositivo [3].
+- Fuente de poder: El dispositivo funciona girando imanes adheridos al motor, el cual crea un campo magnético que gira el imán dentro de la muestra. Se usará un ventilador de ordenador para ahorrar energía y costos. Así también será posible modificar la velocidad de las rotaciones. Por otro lado, se usarán resistencias calefactoras para aumentar la temperatura de la sustancia [4].
+- Sistema de control: Usando un potenciómetro y distinto software, se puede programar la velocidad y las RPM con la cual gira el imán dependiendo de las necesidades según el volumen y el tipo de líquido que se usa. De una manera similar, se controlará el aumento de temperatura, potenciado por una fuente de batería recargable.
+
+### Beneficios
+- A parte del beneficio económico para los laboratorios, la visión del prototipo se enfoca en agilizar la tarea de los diferentes profesionales que trabajan ahí, ya que el agitador es un dispositivo automatizado que puede estar trabajando durante largos periodos de tiempo.
+- El mantenimiento también es sencillo, al implementar elementos de fácil acceso y manipulación, el cuerpo del dispositivo es más duradero. 
+- En universidades, se puede usar este dispositivo para poder ser usado como herramienta que ayude a la enseñanza, al no ser tan cara como un agitador magnético comercial, en caso de algún accidente, puede ser reparada fácilmente por el alumno.
+- Se podrá controlar temperatura y velocidad de rotación para una mejor mezcla. Parámetros necesarios en un agitador magnético. [5]
+
+### Viabilidad técnica
+- Para desarrollo: Se necesita tener conocimientos sobre el diseño y prototipado 3D, al estar usando programas de modelado, impresión 3D y prototipado electrónico proporcionados por la universidad. Se tiene que saber cómo operar estas máquinas de manera correcta para evitar accidentes. 
+- Para prueba: Conocer los diferentes tipos de sustancias que se tienen que mezclar, y con qué frecuencia se van a mezclar, para poder determinar la potencia del motor y otros elementos importantes para el correcto funcionamiento del dispositivo. 
+En este caso, se enfocará en encontrar las RPM óptimas para mezclar diferentes sustancias de manera homogénea. Las RPM necesarias para mezclar líquidos más densos serán mayores. Para soluciones acuosas, como agua y sales, se recomienda entre 500 a 1000 RPM, dependiendo de la viscosidad de la sustancia [6].
+
+
+
+
 
 # Coherencia
 ## Contexto del Proyecto
@@ -56,6 +78,10 @@ El desarrollo del agitador magnético busca mejorar la eficiencia y seguridad en
 # Referencias
 
 [1] R. P. Nieto Risco y J. E. Oliva Morales, "Prevalencia de intoxicaciones medicamentosas en pacientes atendidos en un hospital de Lambayeque" Tesis de Licenciatura, Univ. Señor de Sipán, Chiclayo, Perú, 2024. [En línea]. Disponible: https://repositorio.uss.edu.pe/bitstream/handle/20.500.12802/12508/Nieto%20Risco%2C%20Roy%20Paul%20-%20Oliva%20Morales%2C%20Jesus%20Elizabeth.pdf?sequence=1&isAllowed=y
-
 [2] A. Herranz and S. Pernia, “Unidades de preparación centralizada de medicamentos: práctica esencial para la seguridad del paciente,” FARMACIA HOSPITALARIA, vol. 45, no. 04, pp. 163–164, Jun. 2021, doi: https://doi.org/10.7399/fh.11757.
+[3] Systèmes, D. ¿Qué resistencia pueden tener las piezas 3D? Dassault Systèmes. (2023, 29 marzo). https://www.3ds.com/es/make/solutions/blog/how-strong-can-3d-parts-be
+[4] Conoce la importancia de las resistencias calefactoras y sus usos. (s. f.). Resistencias Eléctricas Industriales. https://juliomartineznaya.com/importancia-resistencias-calefactoras-usos/#:~:text=Este%20tipo%20de%20resistencias%20son,se%20desee%20calentar%20el%20contenido
+[5] Inc, V. S. IT’S ALL A MATTER OF STIRRING: TIPS AND TRICKS TO CHOOSE THE BEST STIRRERS FOR YOUR LABORATORY. Velp Cientifica. (2022, 26 abril). https://www.velp.com/en-us/its-all-a-matter-of-stirring-tips-and-tricks-to-choose-the-best-stirrers-for-your-laboratory.aspx
+[6] Mastering Magnetic Stirrer Techniques: Tips & Tricks for Efficient Mixing. Lab Hot Plates. (2024, 24 enero). https://labhotplates.com/mastering-magnetic-stirrer-techniques-tips-tricks-for-efficient-mixing/
+
 
