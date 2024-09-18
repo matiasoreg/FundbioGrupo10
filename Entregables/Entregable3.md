@@ -46,6 +46,7 @@ En este caso, se enfocará en encontrar las RPM óptimas para mezclar diferentes
 
 # Coherencia
 ## Contexto del Proyecto
+La propuesta de solución es diseñar e implementar un agitador magnético Open Hardware. Este dispositivo permitirá abordar la problemática sobre la mezcla de medicamentos de manera accesible. En el contexto de la Ingeniería Biomédica, la herramienta propuesta da lugar a la optimización y personalización de la preparación de soluciones farmacéuticas. Al ser Open Hardware permite a otros investigadores o profesionales de la salud mejorar este dispositivo o adaptarlo a sus necesidades lo cual fomenta la innovación colaborativa. Por ende, este proyecto no solo busca resolver una necesidad inmediata, sino también, integrarse en un entorno que promueve el libre acceso tecnológico.
 ## Objetivos del Proyecto
 **Objetivo general:** 
 Obtener mezclas farmacéuticas seguras y estables
