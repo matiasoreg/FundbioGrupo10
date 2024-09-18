@@ -24,10 +24,10 @@ El impacto de una preparación inconsistente y poco segura de mezclas médicas e
 La solución propuesta es la creación de un agitador magnético de bajo costo, con pantalla LCD para controlar velocidad y temperatura. Esta solución está diseñada y dirigida a hospitales y postas clínicas en zonas de bajos recursos, como universidades de todo el perú para la implementación en laboratorios de enseñanza. Se logrará usando técnicas de impresión 3D y elementos electrónicos de bajo costo con Arduino.
 
 ### Características:
-- Impresión 3D: Se usará materiales como el PLA o ABS, materiales resistentes y económicos, se logrará tener una estructura duradera y estable. El ABS llega a resistir temperaturas de 100 grados, suficiente para el uso de este dispositivo [3].
-- Fuente de poder: El dispositivo funciona girando imanes adheridos al motor, el cual crea un campo magnético que gira el imán dentro de la muestra. Se usará un ventilador de ordenador para ahorrar energía y costos. Así también será posible modificar la velocidad de las rotaciones. Por otro lado, se usarán resistencias calefactoras para aumentar la temperatura de la sustancia [4].
-- Sistema de control: Usando un potenciómetro y distinto software, se puede programar la velocidad y las RPM con la cual gira el imán dependiendo de las necesidades según el volumen y el tipo de líquido que se usa. De una manera similar, se controlará el aumento de temperatura, potenciado por una fuente de batería recargable.
-- Temporizador y notificación: Se configura el tiempo de agitado y al terminar sonará una notificación que advertirá del fin del agitado.
+- **Impresión 3D:** Se usará materiales como el PLA o ABS, materiales resistentes y económicos, se logrará tener una estructura duradera y estable. El ABS llega a resistir temperaturas de 100 grados, suficiente para el uso de este dispositivo [3].
+- **Fuente de poder:** El dispositivo funciona girando imanes adheridos al motor, el cual crea un campo magnético que gira el imán dentro de la muestra. Se usará un ventilador de ordenador para ahorrar energía y costos. Así también será posible modificar la velocidad de las rotaciones. Por otro lado, se usarán resistencias calefactoras para aumentar la temperatura de la sustancia [4].
+- **Sistema de control:** Usando un potenciómetro y distinto software, se puede programar la velocidad y las RPM con la cual gira el imán dependiendo de las necesidades según el volumen y el tipo de líquido que se usa. De una manera similar, se controlará el aumento de temperatura, potenciado por una fuente de batería recargable.
+- **Temporizador y notificación:** Se configura el tiempo de agitado y al terminar sonará una notificación que advertirá del fin del agitado.
 
 ### Beneficios
 - A parte del beneficio económico para los laboratorios, la visión del prototipo se enfoca en agilizar la tarea de los diferentes profesionales que trabajan ahí, ya que el agitador es un dispositivo automatizado que puede estar trabajando durante largos periodos de tiempo.
@@ -36,8 +36,8 @@ La solución propuesta es la creación de un agitador magnético de bajo costo, 
 - Se podrá controlar temperatura y velocidad de rotación para una mejor mezcla. Parámetros necesarios en un agitador magnético. [5]
 
 ### Viabilidad técnica
-- Para desarrollo: Se necesita tener conocimientos sobre el diseño y prototipado 3D, al estar usando programas de modelado, impresión 3D y prototipado electrónico proporcionados por la universidad. Se tiene que saber cómo operar estas máquinas de manera correcta para evitar accidentes. 
-- Para prueba: Conocer los diferentes tipos de sustancias que se tienen que mezclar, y con qué frecuencia se van a mezclar, para poder determinar la potencia del motor y otros elementos importantes para el correcto funcionamiento del dispositivo. 
+- **Para desarrollo:** Se necesita tener conocimientos sobre el diseño y prototipado 3D, al estar usando programas de modelado, impresión 3D y prototipado electrónico proporcionados por la universidad. Se tiene que saber cómo operar estas máquinas de manera correcta para evitar accidentes. 
+- **Para prueba:** Conocer los diferentes tipos de sustancias que se tienen que mezclar, y con qué frecuencia se van a mezclar, para poder determinar la potencia del motor y otros elementos importantes para el correcto funcionamiento del dispositivo. 
 En este caso, se enfocará en encontrar las RPM óptimas para mezclar diferentes sustancias de manera homogénea. Las RPM necesarias para mezclar líquidos más densos serán mayores. Para soluciones acuosas, como agua y sales, se recomienda entre 500 a 1000 RPM, dependiendo de la viscosidad de la sustancia [6].
 
 
