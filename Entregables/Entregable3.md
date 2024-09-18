@@ -56,6 +56,8 @@ Obtener mezclas farmacéuticas seguras y estables
 - Obtener productos que, en cantidad, se asemejen al valor de rendimiento teórico
 
 ## Justificación del Prototipo
+
+El prototipo propuesto fue pensado en agrupar un conjunto de características que, en la mayoría de productos comerciales, no están presentes en un mismo dispositivo. Entre los aditivos más resaltantes se encuentra la incorporación de una pantalla LCD en la cual el usuario podrá ver la temperatura y velocidad de la mezcla. Además, el temporizador integrado impactará en la prevención del desgaste del equipo manteniendo una alta vida útil del equipo. Por el lado económico, este dispositivo fue planeado para comercializarse a menor costo en comparación con los agitadores magnéticos disponibles en el mercado.
 ## Alineación con el Problema
 De acuerdo con la problemática, la mezcla de medicamentos presenta problemas en su estabilidad de reacción y con la contaminación a la que se encuentra expuesta. Como respuesta a estos problemas, se propone el diseño de un agitador magnético. Este prototipo permitirá al usuario tener control sobre la velocidad de las revoluciones así como sobre la temperatura de la solución. Asimismo, no será necesario usar baquetas u otros objetos de agitación manual, lo cual contribuye a mantener la muestra en un estado puro.
 
