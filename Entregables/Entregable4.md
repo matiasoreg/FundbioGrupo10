@@ -35,3 +35,7 @@ El concepto de solución número 2 es escogido por superar a sus desafiantes. Es
 
 [![10.jpg](https://i.postimg.cc/GpsdWw62/10.jpg)](https://postimg.cc/NyY3XVsq)
 
+[![10.jpg](https://i.postimg.cc/0jRPCWN4/10.jpg)](https://postimg.cc/Hc2qYtX0)
+
+[![11.jpg](https://i.postimg.cc/Wzjx3Qzs/11.jpg)](https://postimg.cc/CBPcrrb2)
+
