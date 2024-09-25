@@ -99,7 +99,7 @@ Dispositivo antideslizante para agitadores magnéticos de matraces en laboratori
 ---
 # Lista de requerimentos
 ### Funcionales: ¿Qué debe hacer nuestro proyecto?
-![FUNCIONAL.jpg](https://i.postimg.cc/PJkz0ChF/listafinal.png)
+![FUNCIONAL.jpg](https://i.postimg.cc/zG73pQmy/finalfinal.png)
 ### No funcionales: ¿Qué propiedades debe tener nuestro proyecto?
 ![NOFUNCIONAL.jpg](https://i.postimg.cc/XYtMg4DB/no-Funcionales.png)
 # Propuesta de solución
