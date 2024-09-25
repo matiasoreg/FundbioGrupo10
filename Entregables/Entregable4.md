@@ -1,6 +1,6 @@
 # Caja negra
 [![1.jpg](https://i.postimg.cc/BZTBBjYY/1.jpg)](https://postimg.cc/NL0Xgjwm)
-
+[![2.jpg](https://i.postimg.cc/HLPdKW6F/2.jpg)](https://postimg.cc/p98w5vbB)
 
 
 
