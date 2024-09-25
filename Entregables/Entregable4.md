@@ -12,7 +12,8 @@
 # Matriz morfológica
 ![Matriz 1](https://github.com/user-attachments/assets/094acf85-a676-48cc-9bcd-c6f8657c9d98)
 
-![Matriz 2](https://github.com/user-attachments/assets/7eb6c7f9-6e65-412c-b14a-02f9ccbf9fcc)
+![Matriz 2](https://github.com/user-attachments/assets/6d3e7442-3b96-4a66-87f7-0ab495283355)
+
 
 ## Tabla de valoración
 ![Tabla](https://github.com/user-attachments/assets/3ed13f8a-4a58-459b-ab91-ce80471bb943)
