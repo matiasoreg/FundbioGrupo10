@@ -24,7 +24,7 @@
 
 
 ## Conclusión
-El concepto de solución número 2 es escogida por superar a sus desafiantes. Esta se destaca por su viabilidad por el uso de un Arduino Nano y el precio, aspectos muy importante para poder realizar el proyecto de forma satisfactoria.
+El concepto de solución número 2 es escogido por superar a sus desafiantes. Esta se destaca por su viabilidad por el uso de un Arduino Nano y el precio, aspectos muy importante para poder realizar el proyecto de forma satisfactoria.
 
 ## Bocetos
 [![7.jpg](https://i.postimg.cc/jqfnzB5R/7.jpg)](https://postimg.cc/vDQmyqfK)
