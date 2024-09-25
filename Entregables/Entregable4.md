@@ -12,6 +12,8 @@
 
 ![Matriz 2](https://github.com/user-attachments/assets/7eb6c7f9-6e65-412c-b14a-02f9ccbf9fcc)
 
+## Tabla de valoración
+![Tabla](https://github.com/user-attachments/assets/3ed13f8a-4a58-459b-ab91-ce80471bb943)
 
 
 
