@@ -22,4 +22,10 @@
 
 
 
-# Conclusión
+## Conclusión
+
+## Bocetos
+![boceto1](https://github.com/user-attachments/assets/44f341e9-1857-466f-af59-bac88f2e4709)
+
+![boceto 2](https://github.com/user-attachments/assets/8747b4c4-cbab-4ed2-a2fb-de7f1f13c93d)
+
