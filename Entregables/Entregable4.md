@@ -25,7 +25,11 @@
 ## Conclusión
 
 ## Bocetos
-![boceto1](https://github.com/user-attachments/assets/44f341e9-1857-466f-af59-bac88f2e4709)
+[![7.jpg](https://i.postimg.cc/jqfnzB5R/7.jpg)](https://postimg.cc/vDQmyqfK)
 
-![boceto 2](https://github.com/user-attachments/assets/8747b4c4-cbab-4ed2-a2fb-de7f1f13c93d)
+[![8.jpg](https://i.postimg.cc/9fSz9BH4/8.jpg)](https://postimg.cc/Ffy953Rm)
+
+[![9.jpg](https://i.postimg.cc/zf9XvXTK/9.jpg)](https://postimg.cc/yJyzrKQ8)
+
+[![10.jpg](https://i.postimg.cc/GpsdWw62/10.jpg)](https://postimg.cc/NyY3XVsq)
 
