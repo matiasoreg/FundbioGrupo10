@@ -1,10 +1,13 @@
 # Caja negra
-[![1.jpg](https://i.postimg.cc/BZTBBjYY/1.jpg)](https://postimg.cc/NL0Xgjwm)
+[![1.jpg](https://i.postimg.cc/FzVCVcqs/Presentaci-n-Diapositivas-Propuesta-de-Proyecto-Minimalista-Simple-Verde-y-Beige.jpg)](https://postimg.cc/Cnd4FZSW)
 
 [![2.jpg](https://i.postimg.cc/HLPdKW6F/2.jpg)](https://postimg.cc/p98w5vbB)
 
 # Esquema de funciones
-[![3.jpg](https://i.postimg.cc/hvXJw381/3.jpg)](https://postimg.cc/kRdXRsp2)
+
+[![4.jpg](https://i.postimg.cc/FsJMn9Cj/Presentaci-n-Diapositivas-Propuesta-de-Proyecto-Minimalista-Simple-Verde-y-Beige-2.png)](https://postimg.cc/56bKXMV0)
+
+[![3.jpg](https://i.postimg.cc/QxbtCJs4/Presentaci-n-Diapositivas-Propuesta-de-Proyecto-Minimalista-Simple-Verde-y-Beige-1.png)](https://postimg.cc/PPChFZCY)
 
 
 
