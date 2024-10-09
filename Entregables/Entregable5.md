@@ -19,3 +19,7 @@
 
 ### Disposición de componentes
 ![disposicion](https://github.com/user-attachments/assets/48a0ec82-6779-40bb-b179-0aa4453346a7)
+
+### Sketchfab
+![disposicion](https://sketchfab.com/julio.vasquez.t)
+
