@@ -21,5 +21,5 @@
 ![disposicion](https://github.com/user-attachments/assets/48a0ec82-6779-40bb-b179-0aa4453346a7)
 
 ### Sketchfab
-#https://sketchfab.com/julio.vasquez.t
+https://sketchfab.com/julio.vasquez.t
 
