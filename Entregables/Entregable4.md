@@ -2,7 +2,8 @@
 ![1](https://github.com/user-attachments/assets/05083640-8bad-48e5-9055-a929e9ce089f)
 
 
-![2](https://github.com/user-attachments/assets/67538edc-323c-48b0-bc48-e8cf74875b44)
+![2](https://github.com/user-attachments/assets/fa1d8a9c-0989-44b9-b765-7c356cef49bf)
+
 
 
 # Esquema de funciones
