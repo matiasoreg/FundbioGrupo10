@@ -10,7 +10,7 @@
 [![4.jpg](https://i.postimg.cc/cJ1RWTQM/4.jpg)](https://postimg.cc/Mn4Mb73v)
 
 [![3.jpg](https://i.postimg.cc/pdv0FDKp/3.jpg)](https://postimg.cc/jD8QVngb)
-# Ensamblaje
+## Ensamblaje
 
 ## Modelado del agitador magnético
 ![agitador](https://github.com/user-attachments/assets/7f285a3f-c447-4c80-9540-6f71dc18c40c)
