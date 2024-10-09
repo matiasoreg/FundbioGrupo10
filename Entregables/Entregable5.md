@@ -3,7 +3,7 @@
 # Modelado 3D
 ## Componentes
 
-[![1.jpg](https://i.postimg.cc/VNP2CspL/1.jpg)](https://postimg.cc/xXgsrQ9W)
+[![Whats-App-Image-2024-10-08-at-11-37-06-PM.jpg](https://i.postimg.cc/ncmQfq7S/Whats-App-Image-2024-10-08-at-11-37-06-PM.jpg)](https://postimg.cc/2Vz54b0n)
 
 [![2.jpg](https://i.postimg.cc/PrtWNgSs/2.jpg)](https://postimg.cc/BtVLVVWM)
 ## Ensamblaje
