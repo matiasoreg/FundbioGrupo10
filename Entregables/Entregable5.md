@@ -8,6 +8,8 @@
 [![2.jpg](https://i.postimg.cc/PrtWNgSs/2.jpg)](https://postimg.cc/BtVLVVWM)
 
 [![4.jpg](https://i.postimg.cc/cJ1RWTQM/4.jpg)](https://postimg.cc/Mn4Mb73v)
+
+[![3.jpg](https://i.postimg.cc/pdv0FDKp/3.jpg)](https://postimg.cc/jD8QVngb)
 ## Ensamblaje
 
 ### Modelado del agitador magnético
