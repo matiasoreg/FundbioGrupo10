@@ -8,7 +8,8 @@
 
 # Esquema de funciones
 
-![3](https://github.com/user-attachments/assets/c0103fd3-fd69-4b10-b4e9-f823cdb414d3)
+![3](https://github.com/user-attachments/assets/7098a531-b514-4603-8fa3-c303aa24844d)
+
 
 
 ![4](https://github.com/user-attachments/assets/7203d76d-be0d-42cc-ac6a-a61a4a07fb1f)
