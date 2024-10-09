@@ -2,6 +2,7 @@
 ![1.jpg](https://i.postimg.cc/fWt1fJ8h/Schematic-Agitador-Magnetico-2024-10-08-1.png)
 # Modelado 3D
 ## Componentes
+![componentes1](https://github.com/user-attachments/assets/67ebbebe-08e7-496a-a173-867af2c5e0c0)
 
 [![Whats-App-Image-2024-10-08-at-11-37-06-PM.jpg](https://i.postimg.cc/ncmQfq7S/Whats-App-Image-2024-10-08-at-11-37-06-PM.jpg)](https://postimg.cc/2Vz54b0n)
 
