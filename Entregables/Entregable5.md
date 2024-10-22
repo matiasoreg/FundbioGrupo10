@@ -1,5 +1,6 @@
 # Esquema Electrónico
-![1.jpg](https://i.postimg.cc/fWt1fJ8h/Schematic-Agitador-Magnetico-2024-10-08-1.png)
+[Schematic_Agitador-Magnetico_2024-10-21.pdf](https://github.com/user-attachments/files/17480465/Schematic_Agitador-Magnetico_2024-10-21.pdf)
+
 # Modelado 3D
 ## Componentes
 
