@@ -4,6 +4,10 @@
 
 Link: https://cad.onshape.com/documents/a855979651da4e301d89adf3/w/3fe1a732dec76f48143637cb/e/9f1dc720090e1ebaeefe4aad?renderMode=0&uiState=67187a0bdb5a554bd498bc0c
 
+### Onshape de la explosión
+
+Link: https://cad.onshape.com/documents/a855979651da4e301d89adf3/w/3fe1a732dec76f48143637cb/e/fe7403c714f5819c2606e31c?renderMode=0&uiState=67187ea3db5a554bd498c6e7 
+
 ### Canva
 
 Link: https://www.canva.com/design/DAGUURk1Qys/9RvyuS0XVnDKdfv4t8-I6Q/edit
