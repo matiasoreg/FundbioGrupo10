@@ -12,11 +12,11 @@ Link: https://cad.onshape.com/documents/a855979651da4e301d89adf3/w/3fe1a732dec76
 
 Link: https://www.canva.com/design/DAGUURk1Qys/9RvyuS0XVnDKdfv4t8-I6Q/edit
 
-![1](https://github.com/user-attachments/assets/d6ec7b4b-b77f-4ac6-9037-b452c0d49243)
+![1](https://github.com/user-attachments/assets/99761518-fd29-4d4a-842f-1635f933afb0)
 ![2](https://github.com/user-attachments/assets/d9da3ae8-8bc7-424f-9af8-328b22156a6c)
 ![3](https://github.com/user-attachments/assets/b480e6ea-a7d9-49a4-9b08-69febf44a279)
 ![4](https://github.com/user-attachments/assets/8c77b54b-9e8a-43ed-85da-43a7f594a96b)
-![5](https://github.com/user-attachments/assets/0ef22daf-bd16-4ff3-979a-0e009b3dacd9)
+![5](https://github.com/user-attachments/assets/ff559b96-6d7c-41c5-a398-e045fc380ecd)
 ![6](https://github.com/user-attachments/assets/7261f46c-b3dc-4815-8245-df6afeaa6308)
 ![7](https://github.com/user-attachments/assets/9917e8d0-a4de-4e77-bf4f-8aaaee1c030a)
 ![8](https://github.com/user-attachments/assets/a4667ab1-dd52-46de-982d-b59a31291209)
