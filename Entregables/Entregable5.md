@@ -3,8 +3,7 @@
 
 # Modelado 3D
 ## Componentes
-
-[![Whats-App-Image-2024-10-08-at-11-37-06-PM.jpg](https://i.postimg.cc/ncmQfq7S/Whats-App-Image-2024-10-08-at-11-37-06-PM.jpg)](https://postimg.cc/2Vz54b0n)
+![1](https://github.com/user-attachments/assets/f7680385-7916-4739-b859-67b3f753fb31)
 
 [![2.jpg](https://i.postimg.cc/PrtWNgSs/2.jpg)](https://postimg.cc/BtVLVVWM)
 
