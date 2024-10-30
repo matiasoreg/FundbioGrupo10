@@ -10,7 +10,7 @@
 
 ## Diagrama de flujo
 ![prototipo](https://i.postimg.cc/xjvzxJWx/oooo.png)
-![prototipo](https://i.postimg.cc/yYnSBq60/ooooooo.png)
+![diagrama](https://i.postimg.cc/yYnSBq60/ooooooo.png)
 
 ## Código
 ![Schematic_Agitador-Magnetico_2024-10-21_page-0001](https://i.postimg.cc/0yp0rGzG/cone.png)
