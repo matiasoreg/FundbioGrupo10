@@ -38,4 +38,6 @@ Onshape: https://cad.onshape.com/documents/e32b461ecded831de141a953/w/2b3a1de321
 
 
 # Reporte
-![retos](https://github.com/user-attachments/assets/3c181e80-e035-4dc0-a3a0-859b87a8fd67)
+![16](https://github.com/user-attachments/assets/2b2c403e-e800-4455-971a-68c78359ca3d)
+![17](https://github.com/user-attachments/assets/895f862c-99be-47e4-8514-63d48c8e0476)
+
