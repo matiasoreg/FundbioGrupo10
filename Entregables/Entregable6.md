@@ -12,7 +12,37 @@
 
 
 ## Código
+#include <Wire.h>
+#include <LiquidCrystal_I2C.h>//
 
+// Inicializa el LCD I2C con la dirección y el tamaño
+LiquidCrystal_I2C lcd(0x27, 16, 2); // Cambia la dirección si es necesario.
+
+const int encoderPinA = 2; // Pin del encoder
+const int encoderPinB = 3; // Pin del encoder
+const int buttonPin = 4;   // Pin del botón del encoder
+
+volatile int encoderPos = 0; // Posición del encoder
+int lastEncoderPos = 0;
+
+int menuIndex = 0; // Índice del menú
+const char* mainMenuItems[] = {"RPM", "Temperatura", "Tiempo"};
+const int mainMenuItemsCount = sizeof(mainMenuItems) / sizeof(mainMenuItems[0]);
+
+const char* subMenuItems[] = {"Cambiar Valor", "Salir"};
+const int subMenuItemsCount = sizeof(subMenuItems) / sizeof(subMenuItems[0]);
+
+int currentMenu = 0; // 0: Menú principal, 1: Menú secundario
+
+void setup() {
+    lcd.begin(16, 2); // Cambia a lcd.begin(16, 2) para inicializar correctamente
+    lcd.backlight();  // Activa la luz de fondo del LCD
+    pinMode(encoderPinA, INPUT_PULLUP);
+    pinMode(encoderPinB, INPUT_PULLUP);
+    pinMode(buttonPin, INPUT_PULLUP);
+    attachInterrupt(digitalPinToInterrupt(encoderPinA), updateEncoder, CHANGE);
+    displayMainMenu();
+}
 # Impresión 3D
 
 
