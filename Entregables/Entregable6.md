@@ -13,7 +13,7 @@
 
 ## Código
 #include <Wire.h>
-#include <LiquidCrystal_I2C.h>//
+#include <LiquidCrystal_I2C.h>
 
 // Inicializa el LCD I2C con la dirección y el tamaño
 LiquidCrystal_I2C lcd(0x27, 16, 2); // Cambia la dirección si es necesario.
