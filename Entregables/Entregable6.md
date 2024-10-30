@@ -75,6 +75,9 @@ Onshape: https://cad.onshape.com/documents/4d86daae90a51e452a105eb6/w/112c9f9d8a
 ![tapa](https://github.com/user-attachments/assets/982061f7-0776-4847-8587-9b9855127dca)
 Onshape: https://cad.onshape.com/documents/e32b461ecded831de141a953/w/2b3a1de321e319e3a527e843/e/3df5d2dbd5c1e4523cc2d2fb?renderMode=0&uiState=6721a8bd0c93776dc0d5a511
 
+##Avance de impresión 3D
+![avance](https://github.com/user-attachments/assets/9a113d03-d11d-49e2-941c-09aa18f29620)
+
 
 # Reporte
 ![retos](https://github.com/user-attachments/assets/3c181e80-e035-4dc0-a3a0-859b87a8fd67)
