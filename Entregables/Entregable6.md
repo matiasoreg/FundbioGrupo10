@@ -18,6 +18,7 @@
 ![Schematic_Agitador-Magnetico_2024-10-21_page-0001](https://i.postimg.cc/qB5LFvfK/c5.png)
 
 # Impresión 3D
+![agitador](https://github.com/user-attachments/assets/9c119f7f-8c3b-45f9-bb12-b0e82ec031f6)
 
 
 ## Modelado base
