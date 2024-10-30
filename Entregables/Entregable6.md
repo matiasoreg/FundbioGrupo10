@@ -6,7 +6,7 @@
 
 
 ## Ejecución
-(https://i.postimg.cc/3wfBw4KC/b146b9ef-e75b-461e-9f62-26817688f36b.jpg)
+![base](https://i.postimg.cc/3wfBw4KC/b146b9ef-e75b-461e-9f62-26817688f36b.png)
 
 ## Diagrama de flujo
 
