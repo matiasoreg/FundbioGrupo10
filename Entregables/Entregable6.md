@@ -18,7 +18,7 @@
 
 ## Modelado base
 ![base](https://github.com/user-attachments/assets/71632350-667a-4c8f-b887-780aa3e500f3)
-
+Onshape: https://cad.onshape.com/documents/8cf54e73229aa9dbee2ddc56/w/062d838551a5d2eee3c4d110/e/15b0130b46fccd5b27bffcdc?renderMode=0&uiState=6721b04cd89c7375d5919aff
 
 ## Modelado compartimiento LCD
 ![compartimiento](https://github.com/user-attachments/assets/cca21cc6-9f82-4d30-a3e5-45126697bbae)
