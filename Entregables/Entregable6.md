@@ -12,8 +12,8 @@
 
 
 ## Código
-![Schematic_Agitador-Magnetico_2024-10-21_page-0001](https://i.postimg.cc/2S84G1Th/coo.png)
-![Schematic_Agitador-Magnetico_2024-10-21_page-0001](https://i.postimg.cc/QMFcLv2M/coooo.png)
+![Schematic_Agitador-Magnetico_2024-10-21_page-0001](https://i.postimg.cc/MK1sNfyL/aa.png)
+![Schematic_Agitador-Magnetico_2024-10-21_page-0001](https://i.postimg.cc/cLXcGR6F/aaaaaaa.png)
 # Impresión 3D
 
 ## Modelado base
