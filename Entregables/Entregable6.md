@@ -8,6 +8,7 @@
 ## Ejecución
 
 
+## Diagrama de flujo
 
 
 ## Código
@@ -25,3 +26,6 @@
 
 
 ## Modelado tapa
+
+
+# Reporte de pruebas, retos y limitaciones
