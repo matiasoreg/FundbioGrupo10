@@ -12,7 +12,7 @@
 
 
 ## Código
-https://i.postimg.cc/0yp0rGzG/cone.png
+![Schematic_Agitador-Magnetico_2024-10-21_page-0001](https://i.postimg.cc/0yp0rGzG/cone.png)
 
 # Impresión 3D
 
