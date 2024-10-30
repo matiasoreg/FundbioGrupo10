@@ -12,10 +12,7 @@
 
 
 ## Código
-[url=https://postimg.cc/jCyPwKSq][img]https://i.postimg.cc/jCyPwKSq/c5.png[/img][/url]
-[url=https://postimg.cc/SnxMvM7j][img]https://i.postimg.cc/SnxMvM7j/cone.png[/img][/url]
-[url=https://postimg.cc/vcznhznp][img]https://i.postimg.cc/vcznhznp/cthree.png[/img][/url]
-[url=https://postimg.cc/QHs5cPFQ][img]https://i.postimg.cc/QHs5cPFQ/ctwo.png[/img][/url]
+https://i.postimg.cc/0yp0rGzG/cone.png
 
 # Impresión 3D
 
