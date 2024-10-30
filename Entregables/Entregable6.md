@@ -6,7 +6,7 @@
 
 
 ## Ejecución
-
+![Schematic_Agitador-Magnetico_2024-10-21_page-0001](https://i.postimg.cc/3wfBw4KC/b146b9ef-e75b-461e-9f62-26817688f36b.jpg)
 
 ## Diagrama de flujo
 
