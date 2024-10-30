@@ -37,7 +37,9 @@ Onshape: https://cad.onshape.com/documents/e32b461ecded831de141a953/w/2b3a1de321
 ## Avance de impresión 3D
 ![avance](https://github.com/user-attachments/assets/9a113d03-d11d-49e2-941c-09aa18f29620)
 
-
+# Diagrama de flujo
+[![1.png](https://i.postimg.cc/vHX7XC3y/1.png)](https://postimg.cc/rK0twnBZ)
+[![2.png](https://i.postimg.cc/JhgCXT9c/2.png)](https://postimg.cc/KKnWS5cR)
 # Reporte
 ![16](https://github.com/user-attachments/assets/2b2c403e-e800-4455-971a-68c78359ca3d)
 ![17](https://github.com/user-attachments/assets/895f862c-99be-47e4-8514-63d48c8e0476)
