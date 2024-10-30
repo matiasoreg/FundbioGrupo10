@@ -22,10 +22,12 @@ Onshape: https://cad.onshape.com/documents/8cf54e73229aa9dbee2ddc56/w/062d838551
 
 ## Modelado compartimiento LCD
 ![compartimiento](https://github.com/user-attachments/assets/cca21cc6-9f82-4d30-a3e5-45126697bbae)
+Onshape: https://cad.onshape.com/documents/4d86daae90a51e452a105eb6/w/112c9f9d8a2cc7a1d0a6b566/e/289a4ad4363b5dc3fbe458d6?renderMode=0&uiState=6721b013a0b6105b58d82010
 
 
 ## Modelado tapa
 ![tapa](https://github.com/user-attachments/assets/982061f7-0776-4847-8587-9b9855127dca)
+Onshape: https://cad.onshape.com/documents/e32b461ecded831de141a953/w/2b3a1de321e319e3a527e843/e/3df5d2dbd5c1e4523cc2d2fb?renderMode=0&uiState=6721a8bd0c93776dc0d5a511
 
 
 # Reporte
