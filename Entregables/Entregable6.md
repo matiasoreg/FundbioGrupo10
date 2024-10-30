@@ -38,7 +38,7 @@ void setup() {
     attachInterrupt(digitalPinToInterrupt(encoderPinA), updateEncoder, CHANGE);
     displayMainMenu();
 }
-}
+
 # Impresión 3D
 
 
