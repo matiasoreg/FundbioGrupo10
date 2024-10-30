@@ -13,7 +13,7 @@
 ## Ensamblaje
 
 ## Modelado del agitador magnético
-![agitador (2)](https://github.com/user-attachments/assets/c6268deb-372a-4e12-806d-f0aa82031c9f)
+![agitador](https://github.com/user-attachments/assets/e2d5f155-c5d0-4948-9d4d-1830d868de20)
 
 
 ## Disposición de componentes
