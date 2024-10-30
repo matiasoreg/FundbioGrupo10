@@ -1,4 +1,4 @@
-# Hardware electrónico
+![base](https://github.com/user-attachments/assets/4894b284-8d0c-48fb-aa1c-dce6e4905766)# Hardware electrónico
 
 
 ## Diseño esquemático electrónico
@@ -16,12 +16,16 @@
 # Impresión 3D
 
 ## Modelado base
+![base](https://github.com/user-attachments/assets/71632350-667a-4c8f-b887-780aa3e500f3)
 
 
-## Modelado pantalla
+## Modelado compartimiento LCD
+![compartimiento](https://github.com/user-attachments/assets/cca21cc6-9f82-4d30-a3e5-45126697bbae)
 
 
 ## Modelado tapa
+![tapa](https://github.com/user-attachments/assets/982061f7-0776-4847-8587-9b9855127dca)
 
 
-# Reporte de pruebas, retos y limitaciones
+# Reporte
+![retos](https://github.com/user-attachments/assets/3c181e80-e035-4dc0-a3a0-859b87a8fd67)
