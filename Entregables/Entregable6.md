@@ -42,6 +42,7 @@ const int subMenuItemsCount = sizeof(subMenuItems) / sizeof(subMenuItems[0]);
 int currentMenu = 0; // 0: Menú principal, 1: Menú secundario
 
 void setup() {
+   
     lcd.begin(16, 2); // Cambia a lcd.begin(16, 2) para inicializar correctamente
     
     lcd.backlight();  // Activa la luz de fondo del LCD
