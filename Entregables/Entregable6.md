@@ -1,4 +1,4 @@
-![base](https://github.com/user-attachments/assets/4894b284-8d0c-48fb-aa1c-dce6e4905766)# Hardware electrónico
+# Hardware electrónico
 
 
 ## Diseño esquemático electrónico
@@ -14,6 +14,7 @@
 ## Código
 
 # Impresión 3D
+
 
 ## Modelado base
 ![base](https://github.com/user-attachments/assets/71632350-667a-4c8f-b887-780aa3e500f3)
