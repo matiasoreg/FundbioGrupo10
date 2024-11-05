@@ -35,3 +35,11 @@ falta el motor ahh
 
 
 # Retroalimentación
+
+### Apariencia y diseño
+
+### Ergonomía y comodidad
+
+### Comprensión y facilidad de uso
+
+### Funcionalidad y potenciales problemas
