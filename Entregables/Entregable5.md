@@ -13,13 +13,8 @@
 ## Ensamblaje
 
 ## Modelado del agitador magnético
-![agitador](https://github.com/user-attachments/assets/7f285a3f-c447-4c80-9540-6f71dc18c40c)
+![agitador](https://github.com/user-attachments/assets/e2d5f155-c5d0-4948-9d4d-1830d868de20)
 
-## Componentes del ensamblaje
-![componentes1](https://github.com/user-attachments/assets/67ebbebe-08e7-496a-a173-867af2c5e0c0)
-
-## Disposición de componentes
-![disposicion](https://github.com/user-attachments/assets/48a0ec82-6779-40bb-b179-0aa4453346a7)
 
 # Sketchfab
 https://sketchfab.com/julio.vasquez.t
