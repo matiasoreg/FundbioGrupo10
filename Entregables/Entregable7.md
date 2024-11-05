@@ -1,16 +1,26 @@
-## Hardware electrónico
+# Hardware electrónico
+## Prototipado electrónico
+
+## Ejecución del código
+
+
+# Software
+## Código
+
+
+# Impresión 3D
+## Ensamble
+
+
+## Modelado paredes del agitador
+
+
+## Modelado base
 
 
 
-## Software
+# Reporte de pruebas, retos y limitaciones
 
 
 
-## Impresión 3D
-
-
-## Reporte de pruebas, retos y limitaciones
-
-
-
-## Retroalimentación
+# Retroalimentación
