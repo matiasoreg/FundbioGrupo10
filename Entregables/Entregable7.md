@@ -7,7 +7,14 @@
 
 
 # Software
-
+´´´
+// Configuración monitor serie
+  Serial.begin(9600);
+ 
+  // Configuramos las filas y las columnas del LCD en este caso 16 columnas y 2 filas
+  lcd.begin(COLS, ROWS);
+}
+´´´
 
 # Impresión 3D
 ### Ensamble
