@@ -1,21 +1,21 @@
 # Hardware electrónico
-## Prototipado electrónico
+### Prototipado electrónico
 
-## Ejecución del código
+### Ejecución del código
 
 
 # Software
-## Código
+### Código
 
 
 # Impresión 3D
-## Ensamble
+### Ensamble
 
 
-## Modelado paredes del agitador
+### Modelado paredes del agitador
 
 
-## Modelado base
+### Modelado base
 
 
 
