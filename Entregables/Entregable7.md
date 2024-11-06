@@ -296,17 +296,26 @@ bool fn_encoder(byte sizemenu) {
 
 # Impresión 3D
 ## Ensamble
+![ensamble](https://github.com/user-attachments/assets/a0463da1-c1b8-41cc-b92c-8016ea6068e6)
 
 
-## Modelado paredes del agitador
+## Paredes del agitador (Corte láser)
 ![muro_izquierda_E7_page-0001](https://github.com/user-attachments/assets/60b6834a-3e4d-4310-b213-045ab1baae6c)
+![izquierda](https://github.com/user-attachments/assets/81ffefc8-a036-4bb0-ad47-5dff62999a77)
+
 ![muro_derecha_E7_page-0001](https://github.com/user-attachments/assets/b7648b78-4bdd-486c-8346-515802d89ea4)
+![derecha](https://github.com/user-attachments/assets/181ebfac-85f5-490d-b543-24ec4ee87f3a)
+
 ![muro_frontal_E7_page-0001](https://github.com/user-attachments/assets/3ff79484-eaad-49d0-b0c1-a75173e7f2b5)
+![frontal](https://github.com/user-attachments/assets/527fe035-abab-4ce0-a5a0-b2c0e5324ae2)
+
 ![muro_atras_E7_page-0001](https://github.com/user-attachments/assets/ba3c199c-3114-42d1-b84b-1c4ea02c3742)
+![atras](https://github.com/user-attachments/assets/b1246b3f-2d74-4055-b915-40189456ba11)
 
 
 ## Modelado base
 ![base_V2_E7_page-0001](https://github.com/user-attachments/assets/662d955c-1501-4704-971e-0f897bdb0db8)
+![base1](https://github.com/user-attachments/assets/f97a3580-f083-4ed2-9774-44c5fb5755fa)
 
 
 
