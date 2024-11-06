@@ -290,6 +290,8 @@ bool fn_encoder(byte sizemenu) {
   return ret;
 }
 ```
+# Diagrama de flujo
+[![Diagrama-de-flujo.png](https://i.postimg.cc/tJ0MRjTY/Diagrama-de-flujo.png)](https://postimg.cc/5Y33pD8V)
 
 # Impresión 3D
 ## Ensamble
