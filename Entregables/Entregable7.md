@@ -317,6 +317,9 @@ bool fn_encoder(byte sizemenu) {
 ![muro_atras_E7_page-0001](https://github.com/user-attachments/assets/ba3c199c-3114-42d1-b84b-1c4ea02c3742)
 ![atras](https://github.com/user-attachments/assets/b1246b3f-2d74-4055-b915-40189456ba11)
 
+## Ángulo (para unir piezas)
+[angulos.pdf](https://github.com/user-attachments/files/17641793/angulos.pdf)
+![angulo](https://github.com/user-attachments/assets/ef0d32d1-d107-4c2e-8a7c-dfc0b6ea894a)
 
 
 # Reporte de pruebas, retos y limitaciones
