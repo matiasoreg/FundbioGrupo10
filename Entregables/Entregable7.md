@@ -318,7 +318,7 @@ bool fn_encoder(byte sizemenu) {
 ![atras](https://github.com/user-attachments/assets/b1246b3f-2d74-4055-b915-40189456ba11)
 
 ## Ángulo (para unir piezas)
-[angulos.pdf](https://github.com/user-attachments/files/17641793/angulos.pdf)
+![angulos_page-0001](https://github.com/user-attachments/assets/c380ac73-91dc-42da-a7ae-2b4c0e0a6cc9)
 ![angulo](https://github.com/user-attachments/assets/ef0d32d1-d107-4c2e-8a7c-dfc0b6ea894a)
 
 
