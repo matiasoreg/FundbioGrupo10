@@ -1,4 +1,4 @@
-# Hardware electrónico
+![muro_frontal_E7_page-0001](https://github.com/user-attachments/assets/a07cfc1b-c9e6-420d-abd3-711c77e1ce2d)# Hardware electrónico
 ### LCD y Sensor de Temperatura
 ![prototipado_LCD](https://github.com/user-attachments/assets/5c7687b3-6e03-4695-8bda-d521105559dd)
 
@@ -298,6 +298,8 @@ bool fn_encoder(byte sizemenu) {
 
 
 ## Modelado paredes del agitador
+![muro_frontal_E7_page-0001](https://github.com/user-attachments/assets/3ff79484-eaad-49d0-b0c1-a75173e7f2b5)
+![muro_izquierda_E7_page-0001](https://github.com/user-attachments/assets/60b6834a-3e4d-4310-b213-045ab1baae6c)
 
 
 ## Modelado base
