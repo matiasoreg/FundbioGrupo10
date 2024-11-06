@@ -5,7 +5,6 @@
 https://github.com/user-attachments/assets/03df11b3-7c7c-46ab-964a-bb1c7d8dc737
 ### Buzzer
 
-## Diagrama de flujo
 
 # Software
 ```
