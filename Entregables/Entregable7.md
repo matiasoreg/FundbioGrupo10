@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/03df11b3-7c7c-46ab-964a-bb1c7d8dc737
 
 LiquidCrystal_I2C lcd(0x27, 20, 4); // Configura tu dirección del LCD y el tamaño
 OneWire ourWire(8); // Se establece el pin 8 como bus OneWire
-DallasTemperature sensors(&ourWire); // Se declara una variable u objeto para nuestro sensor
+DallasTemperature sensors(&ourWire); // Se declara una variable para nuestro sensor
 
 // Parámetros del Encoder
 const int salida_A = 2;    // CLK 
