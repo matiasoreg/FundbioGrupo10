@@ -320,6 +320,7 @@ bool fn_encoder(byte sizemenu) {
 
 
 # Reporte de pruebas, retos y limitaciones
+![pruebas](https://github.com/user-attachments/assets/d5098763-8b58-4a34-92a8-3106a73b5f30)
 
 
 
