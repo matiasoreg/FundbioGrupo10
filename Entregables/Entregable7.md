@@ -291,7 +291,7 @@ bool fn_encoder(byte sizemenu) {
 }
 ```
 # Diagrama de flujo
-<p align="center" ><img src="https://i.postimg.cc/tJ0MRjTY/Diagrama-de-flujo.png" style="width: 600px"></p>
+<p align="center" ><img src="https://i.postimg.cc/tJ0MRjTY/Diagrama-de-flujo.png" style="width: 800px"></p>
 
 # Impresión 3D
 ## Ensamble
