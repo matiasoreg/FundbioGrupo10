@@ -299,6 +299,11 @@ bool fn_encoder(byte sizemenu) {
 ![ensamble](https://github.com/user-attachments/assets/a0463da1-c1b8-41cc-b92c-8016ea6068e6)
 
 
+## Modelado base
+![base_V2_E7_page-0001](https://github.com/user-attachments/assets/662d955c-1501-4704-971e-0f897bdb0db8)
+![base1](https://github.com/user-attachments/assets/f97a3580-f083-4ed2-9774-44c5fb5755fa)
+
+
 ## Paredes del agitador (Corte láser)
 ![muro_izquierda_E7_page-0001](https://github.com/user-attachments/assets/60b6834a-3e4d-4310-b213-045ab1baae6c)
 ![izquierda](https://github.com/user-attachments/assets/81ffefc8-a036-4bb0-ad47-5dff62999a77)
@@ -313,14 +318,11 @@ bool fn_encoder(byte sizemenu) {
 ![atras](https://github.com/user-attachments/assets/b1246b3f-2d74-4055-b915-40189456ba11)
 
 
-## Modelado base
-![base_V2_E7_page-0001](https://github.com/user-attachments/assets/662d955c-1501-4704-971e-0f897bdb0db8)
-![base1](https://github.com/user-attachments/assets/f97a3580-f083-4ed2-9774-44c5fb5755fa)
-
-
 
 # Reporte de pruebas, retos y limitaciones
 ![pruebas](https://github.com/user-attachments/assets/d5098763-8b58-4a34-92a8-3106a73b5f30)
+![retos](https://github.com/user-attachments/assets/210de10b-09f1-4b03-8b0b-282c86917dda)
+![posibles_soluciones](https://github.com/user-attachments/assets/95397869-5013-4de3-b5fd-ffd1386f6ce6)
 
 
 
