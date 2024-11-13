@@ -34,20 +34,9 @@ Criterios de funcionalidad utilizados:
 
 | Arduino Nano | Motor | LCD | Cama Caliente |
 | ------------ | ------------ | ------------- | ------------- |
-| <p align="center" ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnaylampmechatronics.com%2Fardusystem-tarjetas%2F88-arduboard-nano-ch340g-mini-usb.html&psig=AOvVaw3krK5kmSPzaZVZ3cK4o9jo&ust=1731625639725000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD_16y22okDFQAAAAAdAAAAABAJ" style="width: 150px"></p> | <p align="center" ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmecatronica.saisac.pe%2Fproducto%2Fmotorreductor-jga25-370-con-encoder-dc12v-350rpm%2F&psig=AOvVaw1-IiFo9Alw-RoTRjdrLEbg&ust=1731625966959000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDOt8e32okDFQAAAAAdAAAAABAR" style="width: 150px"></p> | <p align="center" ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.winstar.com.tw%2Fes%2Fproducts%2Fcharacter-lcd-display-module%2F16x2-lcd.html&psig=AOvVaw2X53xfAkR9nxmN0_G5q0Px&ust=1731626020264000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjX8-C32okDFQAAAAAdAAAAABAE" style="width: 150px"></p> | <p align="center" ><img src="https://github.com/user-attachments/assets/64374d84-8671-4b5a-9fc2-42e5ce323bf9" style="width: 150px"></p> |
+| <p align="center" ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnaylampmechatronics.com%2Fardusystem-tarjetas%2F88-arduboard-nano-ch340g-mini-usb.html&psig=AOvVaw3krK5kmSPzaZVZ3cK4o9jo&ust=1731625639725000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD_16y22okDFQAAAAAdAAAAABAJ" style="width: 150px"></p> | <p align="center" ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmecatronica.saisac.pe%2Fproducto%2Fmotorreductor-jga25-370-con-encoder-dc12v-350rpm%2F&psig=AOvVaw1-IiFo9Alw-RoTRjdrLEbg&ust=1731625966959000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDOt8e32okDFQAAAAAdAAAAABAR" style="width: 150px"></p> | <p align="center" ><img src="https://i.postimg.cc/W4mmP1Rh/lcd.jpg" style="width: 150px"></p> | <p align="center" ><img src="https://github.com/user-attachments/assets/64374d84-8671-4b5a-9fc2-42e5ce323bf9" style="width: 150px"></p> |
 | Controla los aspectos esenciales (RPMs temperatura y tiempo) | Muestra los datos al usuario | Genera el movimiento rotario para crear el campo mganético | Proporciona calor para variar la temperatura |
 
-<!-- ## Arduino nano
-
-## Motor
-
-## LCD
-
-## Cama caliente
-![cama caliente](https://github.com/user-attachments/assets/64374d84-8671-4b5a-9fc2-42e5ce323bf9) -->
-
-# Plan de integración
-![plan de integracion](https://github.com/user-attachments/assets/83f3e18c-d38a-40c2-a63c-ebdd32fca8f6)
 
 
 # Pruebas, retos y soluciones
