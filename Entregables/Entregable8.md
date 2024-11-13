@@ -13,18 +13,20 @@ Nota: Código en apartado de Sowfware
 
 # Modelado final
 
-## Agitador magnético (Modelado)
-
-## Base (Impresión 3D)
-
-
-## Paredes (Corte láser)
-
 
 ## Tapa (Impresión 3D)
 
 
-## Ángulos
+# Componetes y funcionamiento
+
+## Arduino nano
+
+## Motor
+
+## LCD
+
+## Cama caliente
+
 
 # Pruebas, retos y limitaciones
 
