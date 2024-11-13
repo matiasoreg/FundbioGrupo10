@@ -8,7 +8,7 @@
 
 Nota: Código en apartado de Sowfware
 
-# Modelado
+# Modelado final
 
 ## Agitador magnético (Modelado)
 
@@ -20,6 +20,8 @@ Nota: Código en apartado de Sowfware
 
 ## Tapa (Impresión 3D)
 
+
+## Ángulos
 
 # Pruebas, retos y limitaciones
 
