@@ -1,6 +1,7 @@
 # Prototipo
 ## LCD y Sensor de temperatura
 https://github.com/user-attachments/assets/03df11b3-7c7c-46ab-964a-bb1c7d8dc737
+
 Verificamos que el menú principal y los submenús se muestren correctamente, con opciones de navegación y selección mediante el encoder. Ademàs, que haya una navegación fluida entre opciones.
 ## Buzzer
 
