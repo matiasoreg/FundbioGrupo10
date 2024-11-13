@@ -9,8 +9,9 @@ https://github.com/user-attachments/assets/1fe40445-0a14-4136-b8a0-4d516bd74800
 Verificamos que se active el buzzer al finalizar el temporizador y que emita un sonido claro y perceptible al sonar.
 
 ## Motor
+https://github.com/user-attachments/assets/6b3b2ed2-f2db-4b9d-82ef-8a2c663422c5
 
-
+Verificamos si el motor ajusta su velocidad ingresada por el usuario.
 
 # Modelado final
 ![final](https://github.com/user-attachments/assets/c1a7e2a2-8be4-4faa-8c32-72d777642f3e)
