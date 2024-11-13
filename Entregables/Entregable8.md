@@ -40,6 +40,9 @@ Criterios de funcionalidad utilizados:
 ## Cama caliente
 ![cama caliente](https://github.com/user-attachments/assets/64374d84-8671-4b5a-9fc2-42e5ce323bf9)
 
+# Plan de integración
+![plan de integracion](https://github.com/user-attachments/assets/83f3e18c-d38a-40c2-a63c-ebdd32fca8f6)
+
 
 # Pruebas, retos y limitaciones
 ![pruebas finales](https://github.com/user-attachments/assets/e762ed74-db9d-4cff-82ad-d0672e45c525)
