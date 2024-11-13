@@ -34,7 +34,7 @@ Criterios de funcionalidad utilizados:
 
 | Arduino Nano | Motor | LCD | Cama Caliente |
 | ------------ | ------------ | ------------- | ------------- |
-| <p align="center" ><img src="https://i.postimg.cc/hP4bwdsc/arduinooo.jpg"></p> | <p align="center" ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmecatronica.saisac.pe%2Fproducto%2Fmotorreductor-jga25-370-con-encoder-dc12v-350rpm%2F&psig=AOvVaw1-IiFo9Alw-RoTRjdrLEbg&ust=1731625966959000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDOt8e32okDFQAAAAAdAAAAABAR" style="width: 150px"></p> | <p align="center" ><img src="https://i.postimg.cc/W4mmP1Rh/lcd.jpg" style="width: 150px"></p> | <p align="center" ><img src="https://github.com/user-attachments/assets/64374d84-8671-4b5a-9fc2-42e5ce323bf9" style="width: 150px"></p> |
+| <p align="center" ><img src="https://i.postimg.cc/hP4bwdsc/arduinooo.jpg" style="width: 150px"></p> | <p align="center" ><img src="https://i.postimg.cc/rFhCLwZW/motor.jpg" style="width: 150px"></p> | <p align="center" ><img src="https://i.postimg.cc/W4mmP1Rh/lcd.jpg" style="width: 150px"></p> | <p align="center" ><img src="https://github.com/user-attachments/assets/64374d84-8671-4b5a-9fc2-42e5ce323bf9" style="width: 150px"></p> |
 | Controla los aspectos esenciales (RPMs temperatura y tiempo) | Genera el movimiento rotario para crear el campo mganético | Muestra los datos al usuario | Proporciona calor para variar la temperatura |
 
 
