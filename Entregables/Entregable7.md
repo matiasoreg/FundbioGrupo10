@@ -4,9 +4,11 @@
 
 https://github.com/user-attachments/assets/03df11b3-7c7c-46ab-964a-bb1c7d8dc737
 ### Buzzer
-
-
 https://github.com/user-attachments/assets/1fe40445-0a14-4136-b8a0-4d516bd74800
+
+### Motor
+
+https://github.com/user-attachments/assets/6b3b2ed2-f2db-4b9d-82ef-8a2c663422c5
 
 
 
