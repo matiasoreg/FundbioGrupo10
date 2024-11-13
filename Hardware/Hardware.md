@@ -16,5 +16,5 @@
 ## Soporte para pantalla LCD
 ![Imagen de WhatsApp 2024-11-12 a las 23 09 31_1ed5138c](https://github.com/user-attachments/assets/fb362b22-b182-4cac-9e80-26e79e2038e9)
 
-## Angulos para unir las paredes
+## Angulos (para unir piezas)
 ![Imagen de WhatsApp 2024-11-12 a las 23 09 31_348e60ac](https://github.com/user-attachments/assets/a2d52095-24d3-4e8a-a6ef-a465e218f624)
