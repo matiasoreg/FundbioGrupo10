@@ -154,9 +154,9 @@ void loop() {
           int clkState = digitalRead(salida_A);
           if (clkState != A_ultimo_estado) {
             if (digitalRead(salida_B) != clkState) {
-              enteredRPM = min(enteredRPM + 10, 1000); // Incrementa hasta 10000 RPM 
+              enteredRPM = min(enteredRPM + 50, 1000); // Incrementa hasta 10000 RPM 
             } else {
-              enteredRPM = max(enteredRPM - 10, 0);  // Decrementa hasta 0
+              enteredRPM = max(enteredRPM - 50, 0);  // Decrementa hasta 0
             }
             lcd.setCursor(5, 0); // Posición de RPM
             lcd.print("    ");   // Limpia los caracteres sobrantes
