@@ -1,4 +1,7 @@
 # Prototipo
+## LCD y Sensor de temperatura
+
+## Buzzer
 
 ## Motor
 
