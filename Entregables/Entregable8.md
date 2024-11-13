@@ -6,10 +6,6 @@
 ## Motor
 
 
-# Diagrama de flujo
-
-
-Nota: Código en apartado de Sowfware
 
 # Modelado final
 ![final](https://github.com/user-attachments/assets/c1a7e2a2-8be4-4faa-8c32-72d777642f3e)
