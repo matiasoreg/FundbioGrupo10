@@ -29,7 +29,7 @@ Criterios de funcionalidad utilizados:
 ![tapa](https://github.com/user-attachments/assets/291862c5-2b8e-44a5-a4ea-a1ad372ef565)
 ![tapa imagen](https://github.com/user-attachments/assets/56598d57-7be8-467c-946d-78c699fc972c)
 
-# Componetes y funcionamiento
+# Componetes
 [![Schematic-Agitador-Magnetico-2024-11-13.png](https://i.postimg.cc/dtdLfSc0/Schematic-Agitador-Magnetico-2024-11-13.png)](https://postimg.cc/8jppJ458)
 
 <!-- ## Arduino nano
