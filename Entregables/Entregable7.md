@@ -6,10 +6,6 @@ https://github.com/user-attachments/assets/03df11b3-7c7c-46ab-964a-bb1c7d8dc737
 ### Buzzer
 https://github.com/user-attachments/assets/1fe40445-0a14-4136-b8a0-4d516bd74800
 
-### Motor
-
-https://github.com/user-attachments/assets/6b3b2ed2-f2db-4b9d-82ef-8a2c663422c5
-
 
 
 
@@ -327,6 +323,5 @@ bool fn_encoder(byte sizemenu) {
 
 # Reporte de pruebas, retos y limitaciones
 ![pruebas](https://github.com/user-attachments/assets/d5098763-8b58-4a34-92a8-3106a73b5f30)
-![pruebas](https://github.com/user-attachments/assets/55883ff7-c4fa-4b9f-b237-17fe680b4826)
 ![retos](https://github.com/user-attachments/assets/210de10b-09f1-4b03-8b0b-282c86917dda)
 ![posibles_soluciones](https://github.com/user-attachments/assets/95397869-5013-4de3-b5fd-ffd1386f6ce6)
