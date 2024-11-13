@@ -33,6 +33,9 @@ Verificamos si el motor ajusta su velocidad ingresada por el usuario.
 
 
 # Pruebas, retos y limitaciones
+![pruebas finales](https://github.com/user-attachments/assets/e762ed74-db9d-4cff-82ad-d0672e45c525)
+![retos finales](https://github.com/user-attachments/assets/17ad4f83-9e45-49c0-8eeb-55e7312ac264)
+![soluciones](https://github.com/user-attachments/assets/9d8c5b14-b03a-4329-a328-c24bce320529)
 
 
 # Conclusiones y próximos pasos
