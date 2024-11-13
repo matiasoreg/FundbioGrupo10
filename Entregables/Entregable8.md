@@ -44,10 +44,14 @@ Criterios de funcionalidad utilizados:
 ![plan de integracion](https://github.com/user-attachments/assets/83f3e18c-d38a-40c2-a63c-ebdd32fca8f6)
 
 
-# Pruebas, retos y limitaciones
+# Pruebas, retos y soluciones
 ![pruebas finales](https://github.com/user-attachments/assets/e762ed74-db9d-4cff-82ad-d0672e45c525)
 ![retos finales](https://github.com/user-attachments/assets/17ad4f83-9e45-49c0-8eeb-55e7312ac264)
 ![soluciones](https://github.com/user-attachments/assets/9d8c5b14-b03a-4329-a328-c24bce320529)
 
 
 # Conclusiones y próximos pasos
+- El giro del motor, sensor de temperatura y temporizador funcionan de acuerdo a lo planeado.
+- Falta implementar la funcionalidad de temperatura.
+- Modelado y planos listos para impresión.
+- Se procederá al ensamble físico de piezas y prueba del dispositivo.
