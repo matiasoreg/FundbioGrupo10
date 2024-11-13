@@ -27,6 +27,7 @@ Nota: Código en apartado de Sowfware
 ## LCD
 
 ## Cama caliente
+![cama caliente](https://github.com/user-attachments/assets/64374d84-8671-4b5a-9fc2-42e5ce323bf9)
 
 
 # Pruebas, retos y limitaciones
