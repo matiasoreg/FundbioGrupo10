@@ -325,18 +325,7 @@ bool fn_encoder(byte sizemenu) {
 
 
 # Reporte de pruebas, retos y limitaciones
-![pruebas](https://github.com/user-attachments/assets/55883ff7-c4fa-4b9f-b237-17fe680b4826)
-![retos](https://github.com/user-attachments/assets/210de10b-09f1-4b03-8b0b-282c86917dda)
-![posibles_soluciones](https://github.com/user-attachments/assets/95397869-5013-4de3-b5fd-ffd1386f6ce6)
+![pruebas2](https://github.com/user-attachments/assets/55883ff7-c4fa-4b9f-b237-17fe680b4826)
+![retos2](https://github.com/user-attachments/assets/599ed3a2-eb11-4111-9b8c-1e324b8d31ba)
+![soluciones2](https://github.com/user-attachments/assets/1f517ba2-a7cd-4472-8f53-aaba1c1d8f36)
 
-
-
-# Retroalimentación
-
-### Apariencia y diseño
-
-### Ergonomía y comodidad
-
-### Comprensión y facilidad de uso
-
-### Funcionalidad y potenciales problemas
