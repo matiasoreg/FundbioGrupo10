@@ -30,15 +30,16 @@ Criterios de funcionalidad utilizados:
 ![tapa imagen](https://github.com/user-attachments/assets/56598d57-7be8-467c-946d-78c699fc972c)
 
 # Componetes y funcionamiento
+[![Schematic-Agitador-Magnetico-2024-11-13.png](https://i.postimg.cc/dtdLfSc0/Schematic-Agitador-Magnetico-2024-11-13.png)](https://postimg.cc/8jppJ458)
 
-## Arduino nano
+// ## Arduino nano
 
-## Motor
+// ## Motor
 
-## LCD
+// ## LCD
 
-## Cama caliente
-![cama caliente](https://github.com/user-attachments/assets/64374d84-8671-4b5a-9fc2-42e5ce323bf9)
+// ## Cama caliente
+// ![cama caliente](https://github.com/user-attachments/assets/64374d84-8671-4b5a-9fc2-42e5ce323bf9)
 
 # Plan de integración
 ![plan de integracion](https://github.com/user-attachments/assets/83f3e18c-d38a-40c2-a63c-ebdd32fca8f6)
