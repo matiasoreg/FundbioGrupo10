@@ -37,7 +37,6 @@ Criterios de funcionalidad utilizados:
 | <p align="center" ><img src="https://i.postimg.cc/hP4bwdsc/arduinooo.jpg" style="width: 150px"></p> | <p align="center" ><img src="https://i.postimg.cc/rFhCLwZW/motor.jpg" style="width: 150px"></p> | <p align="center" ><img src="https://i.postimg.cc/W4mmP1Rh/lcd.jpg" style="width: 150px"></p> | <p align="center" ><img src="https://github.com/user-attachments/assets/64374d84-8671-4b5a-9fc2-42e5ce323bf9" style="width: 150px"></p> |
 | Controla los aspectos esenciales (RPMs temperatura y tiempo) | Genera el movimiento rotario para crear el campo mganético | Muestra los datos al usuario | Proporciona calor para variar la temperatura |
 | Sensor DS18B20 | 
-| ------------ |
 | <p align="center" ><img src="https://i.postimg.cc/PfDb4sHg/sensor-de-temperatura-ds18b20.jpg" style="width: 150px"></p> |
 | Cuantifica la temperatura de la mezcla sobre el agitador |
 # Verificación de Diseño
