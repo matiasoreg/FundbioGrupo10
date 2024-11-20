@@ -38,5 +38,5 @@ Criterios de funcionalidad utilizados:
 | Controla los aspectos esenciales (RPMs temperatura y tiempo) | Genera el movimiento rotario para crear el campo mganético | Muestra los datos al usuario | Proporciona calor para variar la temperatura |
 # Verificación de Diseño
 ## Software
-![vs]((https://i.postimg.cc/8cc3Xyp9/tablav.png))
+![vs](https://i.postimg.cc/8cc3Xyp9/tablav.png)
 ## Hardware
