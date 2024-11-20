@@ -41,5 +41,7 @@ Criterios de funcionalidad utilizados:
 | Cuantifica la temperatura de la mezcla sobre el agitador |
 # Verificación de Diseño
 ## Software
-![vs](https://i.postimg.cc/zX9MpS92/tabla-vv.png)
+![Software](https://i.postimg.cc/zX9MpS92/tabla-vv.png)
 ## Hardware
+![Hardware](https://github.com/user-attachments/assets/73f4c942-0fc3-4084-867e-fbe65e002f4a)
+
