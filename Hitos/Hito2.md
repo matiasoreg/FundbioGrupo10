@@ -7,7 +7,7 @@ Link: https://www.canva.com/design/DAGXhhmVFn4/LiH9u8xx5xZk4PNYvdqK9w/edit
 
 ![1](https://github.com/user-attachments/assets/38b707de-f7f3-458e-b22b-009b76f0545b)
 ![2](https://github.com/user-attachments/assets/4bf65f29-c5e3-404b-ab7c-b58d402cd4bb)
-![3](https://github.com/user-attachments/assets/69638a3c-d33d-4cd5-8602-a8975a054aa6)
+![3](https://github.com/user-attachments/assets/f45ae181-c4b9-45e0-90fd-66efb8269a4f)
 ![4](https://github.com/user-attachments/assets/801ed526-37e3-46e4-beec-7d56ac7684b4)
 ![5](https://github.com/user-attachments/assets/6f2133e2-e038-4c1b-af7d-8504b1d3ab74)
 ![6](https://github.com/user-attachments/assets/6ef1642a-ebe7-4949-8466-33b68e254ce8)
